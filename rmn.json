@@ -2,7 +2,7 @@
  "meta": {
   "generato_il": "2026-09-28",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 24
+  "n_norme": 25
  },
  "norme": [
   {
@@ -135,7 +135,7 @@
    "Esito ultima verifica": "Nessuna variazione",
    "Prossima verifica": "2027-03-27",
    "Stato monitoraggio": "OK",
-   "Note": "Secondo ciclo: confermato su lavoro.gov.it/gazzettaufficiale.it che l'art. 45 c. 2 D.Lgs. 81/08 rimanda al DM 388/2003 e a successivi 'decreti ministeriali di adeguamento': nessun decreto di questo tipo risulta pubblicato o in bozza formale. Il DM 4 agosto 2025 n. 152 (settore ferroviario, già osservato nel primo ciclo) è confermato non pertinente al testo generale.",
+   "Note": "Secondo ciclo: confermato su lavoro.gov.it/gazzettaufficiale.it che l'art. 45 c. 2 D.Lgs. 81/08 rimanda al DM 388/2003 e a successivi 'decreti ministeriali di adeguamento': nessun decreto di questo tipo risulta pubblicato o in bozza formale. Il DM 4 agosto 2025 n. 152 (settore ferroviario, già osservato nel primo ciclo) è confermato non pertinente al testo generale. RISERVA (28/09/2026, concordata con AppOverall): lo stato del DM 388/2003 segnala il decreto nuovo dell'art. 45 c. 2 solo se questo lo abroga espressamente; se lo sostituisce senza abrogarlo, S-007 resta «Vigente» e nessuno se ne accorge. A ogni verifica cercare anche un decreto nuovo sul primo soccorso aziendale, non solo lo stato del DM 388. Vedi schede/S-007.md",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -460,6 +460,25 @@
    "Stato monitoraggio": "In scadenza",
    "Note": "Secondo ciclo: ricerca ripetuta su Lazio, Toscana, Campania, Puglia (nessun dominio regione.*.it specifico nella lista aperta per queste quattro: ricerca web generale, non ristretta a un dominio ufficiale). Nessuna evidenza di un nuovo atto attuativo dell'Accordo 2025 per nessuna delle quattro. Coerente con l'osservazione del primo ciclo. Resta aperto, non riesaminato in questo ciclo, il conflitto sul numero di Regioni (17 nel kit, 16 nella libreria).",
    "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-025",
+   "Categoria": "Prassi (circolari, interpelli, FAQ)",
+   "Identificativo norma": "Statistiche nazionali INAIL (DM 388/2003, gruppo A)",
+   "Titolo / Oggetto": "Statistiche nazionali INAIL: indice infortunistico di inabilità permanente per gruppo tariffario, triennio precedente, aggiornate al 31 dicembre, pubblicate in Gazzetta Ufficiale",
+   "Edizione / Revisione vigente": null,
+   "Stato norma": null,
+   "Entrata in vigore": null,
+   "Servizi impattati": "Corsi di formazione; Consulenza sicurezza",
+   "Dove incide": "/corso-primo-soccorso-verona/ (gruppo A, condizione II); libreria livelli-antincendio-e-gruppi-primo-soccorso.md; motore di AppOverall (classificazione primo soccorso)",
+   "Fonte ufficiale di verifica": "Gazzetta Ufficiale; inail.it",
+   "Periodicità verifica (mesi)": 6,
+   "Data ultima verifica": null,
+   "Esito ultima verifica": "Da verificare",
+   "Prossima verifica": null,
+   "Stato monitoraggio": "Da verificare",
+   "Note": "Non è una norma: è il dato che il DM 388/2003 art. 1 c. 1 gruppo A punto II richiama (gruppi tariffari INAIL con indice di inabilità permanente superiore a quattro). Aggiunta il 28/09/2026 su proposta concordata con AppOverall, che la teneva tra le sentinelle non automatiche. Edizione vigente non ancora cercata: da verificare alla fonte al prossimo ciclo completo. Oggi non è in fonti/ della libreria.",
+   "Uso a valle": "non_utilizzabile"
   }
  ]
 }

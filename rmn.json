@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generato_il": "2026-09-28",
+  "generato_il": "2026-10-01",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 25
+  "n_norme": 26
  },
  "norme": [
   {
@@ -479,6 +479,25 @@
    "Stato monitoraggio": "Da verificare",
    "Note": "Non è una norma: è il dato che il DM 388/2003 art. 1 c. 1 gruppo A punto II richiama (gruppi tariffari INAIL con indice di inabilità permanente superiore a quattro). Aggiunta il 28/09/2026 su proposta concordata con AppOverall, che la teneva tra le sentinelle non automatiche. Edizione vigente non ancora cercata: da verificare alla fonte al prossimo ciclo completo. Oggi non è in fonti/ della libreria.",
    "Uso a valle": "non_utilizzabile"
+  },
+  {
+   "ID": "S-026",
+   "Categoria": "DM / DPR / DI",
+   "Identificativo norma": "DPR 151/2011",
+   "Titolo / Oggetto": "Regolamento di prevenzione incendi: procedimenti VV.F. e Allegato I (80 attività soggette ai controlli di prevenzione incendi)",
+   "Edizione / Revisione vigente": "GU n. 221 del 22/09/2011, in vigore dal 07/10/2011; Allegato I mai revisionato (art. 2 c. 5: solo con DPR); voci 58-62 da leggere con la Circolare DCPREV prot. 12000 del 16/09/2020 (riferimenti D.Lgs. 101/2020); esenzione agricola art. 1-bis D.L. 91/2014 conv. L. 116/2014",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": null,
+   "Servizi impattati": "Consulenza sicurezza; Corsi di formazione",
+   "Dove incide": "AppOverall app/src/allegatoIDpr151.ts (livello antincendio della sede, domanda 2: DM 02/09/2021 all. III p. 3.2.3 lett. a); skill valutazione-rischio-incendio references/attivita_dpr151.md (Gate 0)",
+   "Fonte ufficiale di verifica": "Gazzetta Ufficiale n. 221 del 22/09/2011 (testo dell'Allegato I); vigilfuoco.it: testo coordinato DCPST e Circolare DCPREV 12000/2020; Normattiva (vigente)",
+   "Periodicità verifica (mesi)": 6,
+   "Data ultima verifica": "2026-10-01",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-04-01",
+   "Stato monitoraggio": "OK",
+   "Note": "Prima verifica 01/10/2026 su richiesta di AppOverall: Allegato I confrontato voce per voce con la GU; voci 58-62 invariate nel testo, corrispondenze D.Lgs. 101/2020 dalla circolare VV.F. Dubbio: aggiornamento Normattiva del 12/09/2014 non identificato. Vedi schede/S-026.md",
+   "Uso a valle": "utilizzabile"
   }
  ]
 }

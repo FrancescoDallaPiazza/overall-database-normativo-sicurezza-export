@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generato_il": "2026-10-01",
+  "generato_il": "2026-10-05",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
   "n_norme": 26
  },
@@ -17,11 +17,11 @@
    "Dove incide": "Tutti i corsi e le pagine del sito; DVR; consulenza",
    "Fonte ufficiale di verifica": "Normattiva (testo vigente)",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-09-27",
-   "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": "2026-10-27",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "Verificato da Claude Code (rete locale) il 27/09/2026. Modifiche del D.L. 159/2025 conv. L. 198/2025 in vigore dal 31/12/2025 (non 30/12): art. 37 c. 11 RLS — 32 ore iniziali; aggiornamento annuo 4h (15-50 lav.), 8h (>50), sotto i 15 lavoratori le ore le fissa il CCNL per proporzionalità (NON un nuovo obbligo di RLS); art. 16 lett. e); art. 1-bis (30 giorni per somministrazione e turistico-ricettive). Art. 37 c. 5 sostituito dalla L. 34/2026 dal 7/04/2026. Tutto trascritto in formazione-81-utils-src/reference/dlgs-81-2008-articoli-citati.md, controllo mensile della libreria del 27/09/2026. Art. 27 (patente a crediti): vedi S-011.",
+   "Data ultima verifica": "2026-10-05",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-001.md. Nessuna modifica rilevata al D.Lgs. 81/2008 dal 27/09/2026. Osservato (fuori perimetro: Titolo IX cap. III amianto, non fra i servizi venduti) il D.Lgs. 213/2025, in vigore dal 24/01/2026, antecedente al registro.",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -55,11 +55,11 @@
    "Dove incide": "riferimenti/faq-asr-2025.md del repo sito; risposte FAQ delle pagine corso",
    "Fonte ufficiale di verifica": "Ministero del Lavoro: https://www.lavoro.gov.it/temi-e-priorita-salute-e-sicurezza/focus/faq-accordo-stato-regioni-27032026 ; Conferenza delle Regioni",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-09-27",
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2026-10-27",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "Secondo ciclo: recuperato il PDF ufficiale delle FAQ sul sito del Ministero del Lavoro (lavoro.gov.it/temi-e-priorita-salute-e-sicurezza/focus/faq-accordo-stato-regioni-27032026), con data di creazione nei metadati 27/03/2026 e quesiti numerati fino al n. 52 — coincide con la raccolta già censita (27 marzo 2026, 51 quesiti) in SitoInternet_Overall/riferimenti/faq-asr-2025.md. RISOLVE (con alta probabilità, non un confronto integrale) il quesito aperto S-002/S-003/S-016: l'osservazione di 'FAQ nazionali di fine aprile 2026' del primo ciclo era imprecisa nella data; non risulta un tavolo distinto, ma la stessa raccolta del 27 marzo, ripubblicata anche dal Ministero. Osservazione da confermare da Francesco (regola della decisione 7). Vedi scheda S-003.",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-003.md. Nessuna nuova raccolta FAQ del Ministero del Lavoro trovata dal 27/09/2026.",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -74,12 +74,12 @@
    "Dove incide": "Consulenza antincendio; corso manutentori",
    "Fonte ufficiale di verifica": "Gazzetta Ufficiale",
    "Periodicità verifica (mesi)": 6,
-   "Data ultima verifica": "2026-09-27",
-   "Esito ultima verifica": "Variazione rilevata - azione in corso",
-   "Prossima verifica": "2027-03-27",
+   "Data ultima verifica": "2026-10-05",
+   "Esito ultima verifica": "Variazione rilevata - recepita",
+   "Prossima verifica": "2027-04-05",
    "Stato monitoraggio": "OK",
-   "Note": "Verificato alla fonte (Gazzetta Ufficiale) il 27/09/2026. DM 15/07/2025: obbligo di qualifica dei tecnici manutentori (art. 4) dal 25/09/2026. DM 22/09/2026 (GU n. 222 del 24/09/2026, cod. 26A05078), art. 1, nuovo art. 6-bis: dal 25/09/2026 chi entro tale data ha presentato istanza di valutazione dei requisiti può continuare a eseguire manutenzioni e controlli fino alla conclusione della valutazione e comunque non oltre il 31/03/2027. Chi non ha presentato istanza: obbligo in vigore dal 25/09/2026.",
-   "Uso a valle": "con_riserva"
+   "Note": "vedi schede/S-004.md. A-002 chiusa il 28/09/2026 (avviso ai clienti con impianti antincendio inviato); nessuna ulteriore modifica trovata dal 27/09/2026.",
+   "Uso a valle": "utilizzabile"
   },
   {
    "ID": "S-005",
@@ -207,11 +207,11 @@
    "Dove incide": "Consulenza a imprese edili",
    "Fonte ufficiale di verifica": "Normattiva; Ministero del Lavoro; INL",
    "Periodicità verifica (mesi)": 3,
-   "Data ultima verifica": "2026-09-27",
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Variazione rilevata - azione in corso",
-   "Prossima verifica": "2026-12-27",
+   "Prossima verifica": "2027-01-05",
    "Stato monitoraggio": "OK",
-   "Note": "Verificato su Normattiva il 27/09/2026: art. 27 D.Lgs. 81/08 «Testo in vigore dal 31-12-2025» (modificato con la conversione del D.L. 159/2025). Contenuto della modifica non ancora letto: azione A-005.",
+   "Note": "vedi schede/S-011.md. A-005 aperta. Osservato, non sulla fonte primaria, il Decreto Direttoriale INL n. 24/2026 (linee guida Commissioni territoriali per il recupero crediti): atto operativo, non modifica il testo dell'art. 27.",
    "Uso a valle": "con_riserva"
   },
   {
@@ -302,11 +302,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "NESSUNA FONTE UFFICIALE REPERIBILE (deciso da Francesco il 27/09/2026). Copia: formazione-81-utils-src/reference/fonti/FAQ-Regione-Veneto.pdf = OneDrive FormazioneASR/FAQ. Controllo versioni nuove: regione.veneto.it e siti di settore (certifico.com, biblus.acca.it)",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-09-27",
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2026-10-27",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "FONTE NON UFFICIALE, per decisione di Francesco del 27/09/2026: il documento non è pubblicato su una pagina della Regione reperibile e non porta protocollo né data; è rilanciato da siti di settore. Si usa come orientamento regionale (rango 5, cedevole ai chiarimenti nazionali), dichiarandolo come tale. La verifica mensile controlla solo che non esista una versione più recente. 27/09/2026: nessuna versione diversa trovata. Vedi schede/S-016.md.",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-016.md. Verifica mensile: nessuna versione diversa dalle FAQ della Regione del Veneto trovata al 05/10/2026.",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -321,11 +321,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "BURL Regione Lombardia",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-09-27",
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2026-10-27",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "Secondo ciclo: confermato alla fonte (regione.lombardia.it, PDF ufficiale della delibera) — 'DELIBERAZIONE N. XII/4515 SEDUTA DEL 09/06/2025'. Estremi esatti, nessuna discordanza con l'osservazione del primo ciclo.",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-017.md. Pagina ufficiale regione.lombardia.it (ultimo aggiornamento 06/05/2026) confirma ancora la DGR XII/4515/2025 come regime in vigore.",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -340,11 +340,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "BURL Regione Lombardia",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": null,
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Da verificare",
-   "Prossima verifica": null,
-   "Stato monitoraggio": "Da verificare",
-   "Note": "Secondo ciclo: nessuna evidenza diretta trovata per la DGR XII/5667 del 26/01/2026 tramite ricerca sul dominio regione.lombardia.it (fonte raggiungibile, atto specifico non rintracciato). Resta «Da verificare»; nessuna informazione contraria trovata.",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-018.md. Più fonti di settore concordano su DGR XII/5667 del 26/01/2026 (e-learning formazione specifica SSL in sanità, pubblicata BURL Serie Ordinaria n. 6 del 2 o 5/02/2026) ma il testo ufficiale non è stato raggiunto. Azione A-008 aperta per la conferma alla fonte.",
    "Uso a valle": "non_utilizzabile"
   },
   {
@@ -359,11 +359,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "BURL Regione Lombardia",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": null,
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Da verificare",
-   "Prossima verifica": null,
-   "Stato monitoraggio": "Da verificare",
-   "Note": "Secondo ciclo: coerente con l'osservazione del primo ciclo che la DGR attuativa (XII/6661) non sarebbe ancora efficace — la pagina ufficiale di Regione Lombardia sulla formazione SSL (regione.lombardia.it) cita solo la DGR XII/4515/2025 come regime transitorio e conferma che le disposizioni della L.R. 4/2026 diventano operative con 'successiva deliberazione della Giunta regionale' entro 6 mesi dalla legge (corretto: Giunta, non Consiglio come riportato da una fonte secondaria in una ricerca). Nessuna menzione della DGR XII/6661 sulla pagina consultata, coerente con una pubblicazione BURL non ancora avvenuta (attesa non prima del 09/10/2026). Resta «Da verificare»: fonte primaria (BURL) non può confermare un atto non ancora pubblicato. Da riverificare al prossimo ciclo (ottobre 2026). Vedi azione A-004.",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-019.md. A-004 aperta. Riconfermato da più fonti di settore (non dalla fonte ufficiale) che la DGR XII/6661 del 3/08/2026 sarà pubblicata sul BURL non prima del 9/10/2026: alla data di oggi (05/10/2026) non risulta ancora pubblicata. Da riverificare al prossimo ciclo.",
    "Uso a valle": "non_utilizzabile"
   },
   {
@@ -378,11 +378,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "regione.piemonte.it, sanità > sicurezza sul lavoro > formazione",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-09-27",
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2026-10-27",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "Secondo ciclo: confermato alla fonte (regione.piemonte.it, pagina ufficiale dedicata alla DGR) esattamente quanto osservato nel primo ciclo: DGR n. 10-1413 del 23/07/2025 abroga la DGR 17-4345/2016 e recepisce l'Accordo 59/2025. Vedi scheda S-020.",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-020.md. Pagina ufficiale regione.piemonte.it confermata, nessun aggiornamento successivo al 27/09/2026.",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -397,11 +397,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "BURERT Regione Emilia-Romagna",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-09-27",
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2026-10-27",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "Secondo ciclo: confermato alla fonte (bur.regione.emilia-romagna.it) — BURERT n. 203 del 30.07.2025 (Parte Seconda). Estremi esatti, nessuna modifica successiva osservata.",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-021.md. Pagina BURERT confermata, nessuna modifica successiva al 07/07/2025.",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -416,11 +416,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "GURS Regione Siciliana",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-09-27",
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2026-10-27",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "Secondo ciclo: confermato alla fonte (regione.sicilia.it, pagina ufficiale del decreto) — D.A. n. 368 del 20/03/2026, GURS n. 15 del 27/03/2026: estremi esatti, coincidono con l'osservazione del primo ciclo. Il campo di applicazione dettagliato (lavoratori, preposti, dirigenti, RSPP/ASPP, ambienti confinati, attrezzature, coordinatori, percorsi specifici) e l'Elenco Regionale dei Soggetti Formatori non sono stati confermati per intero: il testo consultato riporta solo oggetto e riferimenti, non l'Allegato A integrale. Da approfondire se serve per un cliente specifico.",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-022.md. Pagina ufficiale regione.sicilia.it confermata, nessun aggiornamento successivo al 27/03/2026.",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -435,11 +435,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "Provincia autonoma di Bolzano",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": null,
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Da verificare",
-   "Prossima verifica": null,
-   "Stato monitoraggio": "Da verificare",
-   "Note": "Secondo ciclo: confermata alla fonte (provincia.bz.it) la delibera della Giunta provinciale n. 357 dell'8 maggio 2026, che recepisce l'Accordo 59/2025 (base del regime sperimentale con clausola di salvaguardia). NON confermata la delibera del 22 maggio 2026 sull'estensione dell'e-learning al rischio medio e alto, citata nel primo ciclo da fonti secondarie: potrebbe essere una confusione con la delibera 357 dell'8 maggio. Resta «Da verificare» per la parte specifica dell'estensione e-learning; la delibera 357 di base è ora confermata.",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-023.md. Pagina provincia.bz.it tentata non raggiunta (404); nessuna nuova fonte sulla delibera del 22/05/2026 sull'e-learning. Resta non confermata.",
    "Uso a valle": "non_utilizzabile"
   },
   {
@@ -454,11 +454,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "BUR delle singole Regioni; ricerca «delibera [Regione] formazione sicurezza ASR 17/04/2025»",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-09-27",
+   "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2026-10-27",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "Secondo ciclo: ricerca ripetuta su Lazio, Toscana, Campania, Puglia (nessun dominio regione.*.it specifico nella lista aperta per queste quattro: ricerca web generale, non ristretta a un dominio ufficiale). Nessuna evidenza di un nuovo atto attuativo dell'Accordo 2025 per nessuna delle quattro. Coerente con l'osservazione del primo ciclo. Resta aperto, non riesaminato in questo ciclo, il conflitto sul numero di Regioni (17 nel kit, 16 nella libreria).",
+   "Prossima verifica": "2026-11-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-024.md. Nessun nuovo atto attuativo regionale trovato per le 16 Regioni/PA sentinella al 05/10/2026.",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -473,12 +473,12 @@
    "Dove incide": "/corso-primo-soccorso-verona/ (gruppo A, condizione II); libreria livelli-antincendio-e-gruppi-primo-soccorso.md; motore di AppOverall (classificazione primo soccorso)",
    "Fonte ufficiale di verifica": "Gazzetta Ufficiale; inail.it",
    "Periodicità verifica (mesi)": 6,
-   "Data ultima verifica": null,
-   "Esito ultima verifica": "Da verificare",
-   "Prossima verifica": null,
-   "Stato monitoraggio": "Da verificare",
-   "Note": "Non è una norma: è il dato che il DM 388/2003 art. 1 c. 1 gruppo A punto II richiama (gruppi tariffari INAIL con indice di inabilità permanente superiore a quattro). Aggiunta il 28/09/2026 su proposta concordata con AppOverall, che la teneva tra le sentinelle non automatiche. Edizione vigente non ancora cercata: da verificare alla fonte al prossimo ciclo completo. Oggi non è in fonti/ della libreria.",
-   "Uso a valle": "non_utilizzabile"
+   "Data ultima verifica": "2026-10-05",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-04-05",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-025.md. Prima verifica: pagina ufficiale INAIL letta, richiama il comunicato del Ministero del Welfare in G.U. n. 192 del 17/08/2004; pagina aggiornata al 24/06/2022, nessuna edizione più recente trovata.",
+   "Uso a valle": "utilizzabile"
   },
   {
    "ID": "S-026",

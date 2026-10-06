@@ -10,7 +10,7 @@
    "Categoria": "Legge / D.Lgs. / D.L.",
    "Identificativo norma": "D.Lgs. 81/2008",
    "Titolo / Oggetto": "Testo unico salute e sicurezza sul lavoro",
-   "Edizione / Revisione vigente": "testo coordinato Amato/Di Fiore «EDIZIONE AGGIORNATA OTTOBRE 2026» (in linea dal 04/10/2026; la libreria ha letto la Gennaio 2026). Ultime modifiche: D.L. 159/2025 conv. L. 198/2025 (dal 31/12/2025); L. 34/2026 (dal 07/04/2026: artt. 3 c. 7-bis, 37 c. 4 lett. b-bis e c. 5, 55, all. VII)",
+   "Edizione / Revisione vigente": "testo coordinato Amato/Di Fiore «EDIZIONE AGGIORNATA OTTOBRE 2026» (in linea dal 04/10/2026; letta dalla libreria il 06/10/2026, 1.514 pagine). Ultime modifiche: D.L. 159/2025 conv. L. 198/2025 (dal 31/12/2025); L. 34/2026, GU n. 68 del 23/03/2026 (dal 07/04/2026: artt. 3 c. 7-bis, 37 c. 4 lett. b-bis e c. 5, 55, all. VII)",
    "Stato norma": null,
    "Entrata in vigore": null,
    "Servizi impattati": "Tutti",
@@ -21,7 +21,7 @@
    "Esito ultima verifica": "Variazione rilevata - azione in corso",
    "Prossima verifica": "2026-11-06",
    "Stato monitoraggio": "OK",
-   "Note": "vedi schede/S-001.md. 06/10/2026: edizione Ottobre 2026 non vista dal ciclo del 05/10 (sito non aperto); L. 34/2026 letta sulla nota INL 780/2026: oltre all'art. 37 c. 5 modifica art. 3 c. 7-bis (lavoro agile), art. 37 c. 4 lett. b-bis (formazione in CIG), art. 55, all. VII (PLE). Azioni A-009…A-012.",
+   "Note": "vedi schede/S-001.md. 06/10/2026: edizione Ottobre 2026 non vista dal ciclo del 05/10 (sito non aperto); letta dalla libreria lo stesso giorno (A-009 chiusa, commit 1df32f9). L. 34/2026: oltre all'art. 37 c. 5 modifica art. 3 c. 7-bis (lavoro agile, con sanzione art. 55 c. 5 lett. c), art. 37 c. 4 lett. b-bis (formazione in CIG), all. VII (PLE). Restano A-010…A-012; dubbio «in frutteto» su A-011.",
    "Uso a valle": "con_riserva"
   },
   {

@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generato_il": "2026-10-05",
+  "generato_il": "2026-10-06",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 26
+  "n_norme": 29
  },
  "norme": [
   {
@@ -10,19 +10,19 @@
    "Categoria": "Legge / D.Lgs. / D.L.",
    "Identificativo norma": "D.Lgs. 81/2008",
    "Titolo / Oggetto": "Testo unico salute e sicurezza sul lavoro",
-   "Edizione / Revisione vigente": "testo vigente al 27/09/2026 (Normattiva) per gli articoli seguiti dalla libreria",
+   "Edizione / Revisione vigente": "testo coordinato Amato/Di Fiore «EDIZIONE AGGIORNATA OTTOBRE 2026» (in linea dal 04/10/2026; la libreria ha letto la Gennaio 2026). Ultime modifiche: D.L. 159/2025 conv. L. 198/2025 (dal 31/12/2025); L. 34/2026 (dal 07/04/2026: artt. 3 c. 7-bis, 37 c. 4 lett. b-bis e c. 5, 55, all. VII)",
    "Stato norma": null,
    "Entrata in vigore": null,
    "Servizi impattati": "Tutti",
    "Dove incide": "Tutti i corsi e le pagine del sito; DVR; consulenza",
-   "Fonte ufficiale di verifica": "Normattiva (testo vigente)",
+   "Fonte ufficiale di verifica": "Normattiva (testo vigente); https://www.8108amatodifiore.it/ (edizione nel titolo della home); ispettorato.gov.it",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-10-05",
-   "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2026-11-05",
+   "Data ultima verifica": "2026-10-06",
+   "Esito ultima verifica": "Variazione rilevata - azione in corso",
+   "Prossima verifica": "2026-11-06",
    "Stato monitoraggio": "OK",
-   "Note": "vedi schede/S-001.md. Nessuna modifica rilevata al D.Lgs. 81/2008 dal 27/09/2026. Osservato (fuori perimetro: Titolo IX cap. III amianto, non fra i servizi venduti) il D.Lgs. 213/2025, in vigore dal 24/01/2026, antecedente al registro.",
-   "Uso a valle": "utilizzabile"
+   "Note": "vedi schede/S-001.md. 06/10/2026: edizione Ottobre 2026 non vista dal ciclo del 05/10 (sito non aperto); L. 34/2026 letta sulla nota INL 780/2026: oltre all'art. 37 c. 5 modifica art. 3 c. 7-bis (lavoro agile), art. 37 c. 4 lett. b-bis (formazione in CIG), art. 55, all. VII (PLE). Azioni A-009…A-012.",
+   "Uso a valle": "con_riserva"
   },
   {
    "ID": "S-002",
@@ -58,7 +58,7 @@
    "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
    "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-003.md. Nessuna nuova raccolta FAQ del Ministero del Lavoro trovata dal 27/09/2026.",
    "Uso a valle": "utilizzabile"
   },
@@ -305,7 +305,7 @@
    "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
    "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-016.md. Verifica mensile: nessuna versione diversa dalle FAQ della Regione del Veneto trovata al 05/10/2026.",
    "Uso a valle": "utilizzabile"
   },
@@ -324,7 +324,7 @@
    "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
    "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-017.md. Pagina ufficiale regione.lombardia.it (ultimo aggiornamento 06/05/2026) confirma ancora la DGR XII/4515/2025 come regime in vigore.",
    "Uso a valle": "utilizzabile"
   },
@@ -343,7 +343,7 @@
    "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Da verificare",
    "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-018.md. Più fonti di settore concordano su DGR XII/5667 del 26/01/2026 (e-learning formazione specifica SSL in sanità, pubblicata BURL Serie Ordinaria n. 6 del 2 o 5/02/2026) ma il testo ufficiale non è stato raggiunto. Azione A-008 aperta per la conferma alla fonte.",
    "Uso a valle": "non_utilizzabile"
   },
@@ -362,7 +362,7 @@
    "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Da verificare",
    "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-019.md. A-004 aperta. Riconfermato da più fonti di settore (non dalla fonte ufficiale) che la DGR XII/6661 del 3/08/2026 sarà pubblicata sul BURL non prima del 9/10/2026: alla data di oggi (05/10/2026) non risulta ancora pubblicata. Da riverificare al prossimo ciclo.",
    "Uso a valle": "non_utilizzabile"
   },
@@ -381,7 +381,7 @@
    "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
    "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-020.md. Pagina ufficiale regione.piemonte.it confermata, nessun aggiornamento successivo al 27/09/2026.",
    "Uso a valle": "utilizzabile"
   },
@@ -400,7 +400,7 @@
    "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
    "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-021.md. Pagina BURERT confermata, nessuna modifica successiva al 07/07/2025.",
    "Uso a valle": "utilizzabile"
   },
@@ -419,7 +419,7 @@
    "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
    "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-022.md. Pagina ufficiale regione.sicilia.it confermata, nessun aggiornamento successivo al 27/03/2026.",
    "Uso a valle": "utilizzabile"
   },
@@ -438,7 +438,7 @@
    "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Da verificare",
    "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-023.md. Pagina provincia.bz.it tentata non raggiunta (404); nessuna nuova fonte sulla delibera del 22/05/2026 sull'e-learning. Resta non confermata.",
    "Uso a valle": "non_utilizzabile"
   },
@@ -457,7 +457,7 @@
    "Data ultima verifica": "2026-10-05",
    "Esito ultima verifica": "Nessuna variazione",
    "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-024.md. Nessun nuovo atto attuativo regionale trovato per le 16 Regioni/PA sentinella al 05/10/2026.",
    "Uso a valle": "utilizzabile"
   },
@@ -498,6 +498,63 @@
    "Stato monitoraggio": "OK",
    "Note": "Prima verifica 01/10/2026 su richiesta di AppOverall: Allegato I confrontato voce per voce con la GU; voci 58-62 invariate nel testo, corrispondenze D.Lgs. 101/2020 dalla circolare VV.F. Normattiva: 4 aggiornamenti all'atto (D.L. 83/2012, 69/2013, 101/2013, 133/2014), nessuno sull'Allegato I. Vedi schede/S-026.md",
    "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-027",
+   "Categoria": "Prassi (circolari, interpelli, FAQ)",
+   "Identificativo norma": "Interpelli art. 12 D.Lgs. 81/2008",
+   "Titolo / Oggetto": "Risposte della Commissione per gli interpelli in materia di salute e sicurezza sul lavoro (raccolta)",
+   "Edizione / Revisione vigente": "ultimo: interpello n. 4/2026, seduta del 24/09/2026 (2026: n. 1 del 16/04, n. 2 del 25/06, nn. 3 e 4 del 24/09)",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": null,
+   "Servizi impattati": "Corsi di formazione; Consulenza sicurezza",
+   "Dove incide": "consulente-formazione-81; pagine corso RSPP/RLS; consulenza cantieri",
+   "Fonte ufficiale di verifica": "https://www.lavoro.gov.it/documenti-e-norme/interpelli/pagine/default",
+   "Periodicità verifica (mesi)": 1,
+   "Data ultima verifica": "2026-10-06",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2026-11-06",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-027.md. Voce aperta il 06/10/2026. Dubbio per Francesco: interpello 4/2026 (incompatibilità RLS/CSP) da portare nei servizi?",
+   "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-028",
+   "Categoria": "Prassi (circolari, interpelli, FAQ)",
+   "Identificativo norma": "Circolari e note INL (salute e sicurezza)",
+   "Titolo / Oggetto": "Circolari e note operative dell'Ispettorato Nazionale del Lavoro in materia di salute e sicurezza (raccolta)",
+   "Edizione / Revisione vigente": "ultimo atto letto: nota prot. 2010 del 18/09/2026 (rateizzazione art. 21 D.Lgs. 758/1994)",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": null,
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "assistenza-ispezione-sicurezza-verona.html (Safety Express); vedi anche S-001, S-011",
+   "Fonte ufficiale di verifica": "https://www.ispettorato.gov.it/",
+   "Periodicità verifica (mesi)": 1,
+   "Data ultima verifica": "2026-10-06",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2026-11-06",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-028.md. Voce aperta il 06/10/2026: lette circ. 1/2026 e note 609, 780, 4634, 2010 del 2026.",
+   "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-029",
+   "Categoria": "Accordo Stato-Regioni",
+   "Identificativo norma": "Accordo Stato-Regioni accreditamento formatori SSL (art. 6 D.L. 159/2025)",
+   "Titolo / Oggetto": "Requisiti e criteri per l'accreditamento dei soggetti che erogano la formazione in materia di salute e sicurezza sul lavoro",
+   "Edizione / Revisione vigente": "atteso: non risulta adottato",
+   "Stato norma": null,
+   "Entrata in vigore": null,
+   "Servizi impattati": "Corsi di formazione",
+   "Dove incide": "tutti i corsi; libreria formazione-81-utils-src",
+   "Fonte ufficiale di verifica": "https://www.statoregioni.it/ (repertorio atti /CSR)",
+   "Periodicità verifica (mesi)": 1,
+   "Data ultima verifica": "2026-10-06",
+   "Esito ultima verifica": "Da verificare",
+   "Prossima verifica": "2026-11-06",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-029.md. Rinvio letto nella circolare INL 1/2026; repertorio Stato-Regioni da scorrere al prossimo ciclo.",
+   "Uso a valle": "non_utilizzabile"
   }
  ]
 }

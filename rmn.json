@@ -227,11 +227,11 @@
    "Fonte ufficiale di verifica": "Normattiva (testo vigente)",
    "Periodicità verifica (mesi)": 6,
    "Data ultima verifica": "2026-09-27",
-   "Esito ultima verifica": "Nessuna variazione",
+   "Esito ultima verifica": "Da verificare",
    "Prossima verifica": "2027-03-27",
    "Stato monitoraggio": "OK",
-   "Note": "Secondo ciclo: nessuna modifica diretta dell'art. 25-septies D.Lgs. 231/2001. Confermato alla fonte (normattiva.it/gazzettaufficiale.it) l'impatto indiretto già osservato: la L. 11 marzo 2026 n. 34 (GU 23/03/2026, in vigore dal 07/04/2026) ha modificato le sanzioni dell'art. 55 D.Lgs. 81/08 (a carico del datore di lavoro) — importi aumentati, raddoppiati per violazioni con più di 5 lavoratori coinvolti, triplicati oltre i 10. L'art. 55 è richiamato come reato presupposto dall'art. 25-septies: l'aumento delle sanzioni penali di riferimento va tenuto presente nei protocolli 231 e nella consulenza, anche se il testo dell'art. 25-septies non cambia. Controllata la pagina assistenza-ispezione-sicurezza-verona.html: non cita importi specifici dell'ammenda, nessuna informazione pubblicata risulta resa falsa. Azione proposta: A-006. Vedi scheda S-012.",
-   "Uso a valle": "utilizzabile"
+   "Note": "vedi schede/S-012.md. Dubbio del 06/10/2026: l'aumento delle sanzioni dell'art. 55 (raddoppio oltre 5, triplicazione oltre 10) è attribuito alla L. 34/2026, ma la nota INL 780/2026 non lo riporta. Verificare quale atto lo ha introdotto.",
+   "Uso a valle": "non_utilizzabile"
   },
   {
    "ID": "S-013",
@@ -515,7 +515,7 @@
    "Esito ultima verifica": "Nessuna variazione",
    "Prossima verifica": "2026-11-06",
    "Stato monitoraggio": "OK",
-   "Note": "vedi schede/S-027.md. Voce aperta il 06/10/2026. Dubbio per Francesco: interpello 4/2026 (incompatibilità RLS/CSP) da portare nei servizi?",
+   "Note": "vedi schede/S-027.md. Voce aperta il 06/10/2026. Interpello 4/2026 (RLS/CSP): Francesco decide il 06/10/2026 di non portarlo nei servizi.",
    "Uso a valle": "utilizzabile"
   },
   {

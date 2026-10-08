@@ -490,13 +490,13 @@
    "Entrata in vigore": null,
    "Servizi impattati": "Consulenza sicurezza; Corsi di formazione",
    "Dove incide": "AppOverall app/src/allegatoIDpr151.ts (livello antincendio della sede, domanda 2: DM 02/09/2021 all. III p. 3.2.3 lett. a); skill valutazione-rischio-incendio references/attivita_dpr151.md (Gate 0)",
-   "Fonte ufficiale di verifica": "Gazzetta Ufficiale n. 221 del 22/09/2011 (testo dell'Allegato I); vigilfuoco.it: testo coordinato DCPST e Circolare DCPREV 12000/2020; Normattiva (vigente)",
+   "Fonte ufficiale di verifica": "Gazzetta Ufficiale n. 221 del 22/09/2011 (testo dell'Allegato I); vigilfuoco.it: testo coordinato DCPST e circolari/note DCPREV; Normattiva (vigente)",
    "Periodicità verifica (mesi)": 6,
    "Data ultima verifica": "2026-10-01",
    "Esito ultima verifica": "Nessuna variazione",
    "Prossima verifica": "2027-04-01",
    "Stato monitoraggio": "OK",
-   "Note": "Prima verifica 01/10/2026 su richiesta di AppOverall: Allegato I confrontato voce per voce con la GU; voci 58-62 invariate nel testo, corrispondenze D.Lgs. 101/2020 dalla circolare VV.F. Normattiva: 4 aggiornamenti all'atto (D.L. 83/2012, 69/2013, 101/2013, 133/2014), nessuno sull'Allegato I. Vedi schede/S-026.md",
+   "Note": "Prima verifica 01/10/2026 su richiesta di AppOverall: Allegato I confrontato voce per voce con la GU; voci 58-62 invariate nel testo, corrispondenze D.Lgs. 101/2020 dalla circolare VV.F. Normattiva: 4 aggiornamenti all'atto (D.L. 83/2012, 69/2013, 101/2013, 133/2014), nessuno sull'Allegato I. 08/10/2026: nota DCPREV 19672 del 21/09/2026 (impianti rifiuti) letta su copia di settore, originale non trovato: interpretativa, non modifica l'Allegato I. Vedi schede/S-026.md",
    "Uso a valle": "utilizzabile"
   },
   {

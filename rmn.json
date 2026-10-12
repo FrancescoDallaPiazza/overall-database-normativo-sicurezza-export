@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generato_il": "2026-10-08",
+  "generato_il": "2026-10-12",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
   "n_norme": 29
  },
@@ -264,12 +264,12 @@
    "Dove incide": "Consulenza macchine; corsi attrezzature",
    "Fonte ufficiale di verifica": "EUR-Lex",
    "Periodicità verifica (mesi)": 6,
-   "Data ultima verifica": "2026-09-27",
-   "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2027-03-27",
+   "Data ultima verifica": "2026-10-12",
+   "Esito ultima verifica": "Da verificare",
+   "Prossima verifica": "2027-04-12",
    "Stato monitoraggio": "OK",
-   "Note": "Secondo ciclo: confermato su eur-lex.europa.eu il Regolamento (UE) 2023/1230 (macchine) e la modifica Regolamento (UE) 2024/2748 (procedure d'emergenza), applicabile dal 29/05/2026. Confermata su normattiva.it/gazzettaufficiale.it la L. 17 marzo 2026 n. 36 (GU n. 70 del 25/03/2026, legge di delegazione europea 2025) che delega il recepimento italiano. Nessun decreto legislativo attuativo specifico per il regolamento macchine risulta ancora emanato fra i decreti pubblicati fino al 27/09/2026. Vedi scheda S-014.",
-   "Uso a valle": "utilizzabile"
+   "Note": "vedi schede/S-014.md. Giro rapido 12/10/2026: trovato il Regolamento (UE) 2026/1744 (omnibus digitale IA, in vigore dal 27/07/2026) che modifica anche il Regolamento macchine 2023/1230 (artt. 8, 20, 47; Allegato III tramite atti delegati dal 2/08/2028). Letto in parte su eur-lex.europa.eu: riguarda obblighi dei fabbricanti sui sistemi di IA nelle macchine, nessun effetto osservato sui corsi o sulla consulenza attuali. Lettura non integrale: da completare al prossimo ciclo completo.",
+   "Uso a valle": "non_utilizzabile"
   },
   {
    "ID": "S-015",
@@ -285,7 +285,7 @@
    "Periodicità verifica (mesi)": 3,
    "Data ultima verifica": "2026-09-27",
    "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": null,
+   "Prossima verifica": "2026-12-27",
    "Stato monitoraggio": "Archivio",
    "Note": "Abrogato dall'ASR 17/04/2025, Parte VII punto 3 (trascritto in formazione-81-utils-src/reference/asr-2025-parte-vii.md). Percorsi effettuati in vigenza del 2012 fatti salvi; durate vigenti in Parte II punto 8.3. Il transitorio per avviare corsi col regime vecchio è scaduto il 19/05/2026 (non 24/05: vedi asr-2025-parte-vii.md). Verificato sulla libreria il 27/09/2026.",
    "Uso a valle": "archivio"
@@ -340,11 +340,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "BURL Regione Lombardia",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-10-05",
+   "Data ultima verifica": "2026-10-12",
    "Esito ultima verifica": "Da verificare",
-   "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "vedi schede/S-018.md. Più fonti di settore concordano su DGR XII/5667 del 26/01/2026 (e-learning formazione specifica SSL in sanità, pubblicata BURL Serie Ordinaria n. 6 del 2 o 5/02/2026) ma il testo ufficiale non è stato raggiunto. Azione A-008 aperta per la conferma alla fonte.",
+   "Prossima verifica": "2026-11-12",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-018.md. A-008 aperta. Giro rapido 12/10/2026: fonti di settore precisano BURL Serie Ordinaria n. 6 del 2 febbraio 2026 (prima: «inizio febbraio»); fonte ufficiale ancora non raggiunta (burl.regione.lombardia.it non risponde da questo ambiente di rete, 502, nonostante regione.lombardia.it sia nell'elenco consentito).",
    "Uso a valle": "non_utilizzabile"
   },
   {
@@ -359,11 +359,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "BURL Regione Lombardia",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-10-05",
+   "Data ultima verifica": "2026-10-12",
    "Esito ultima verifica": "Da verificare",
-   "Prossima verifica": "2026-11-05",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "vedi schede/S-019.md. A-004 aperta. Riconfermato da più fonti di settore (non dalla fonte ufficiale) che la DGR XII/6661 del 3/08/2026 sarà pubblicata sul BURL non prima del 9/10/2026: alla data di oggi (05/10/2026) non risulta ancora pubblicata. Da riverificare al prossimo ciclo.",
+   "Prossima verifica": "2026-11-12",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-019.md. A-004 aperta. Giro rapido 12/10/2026: la finestra «non prima del 9/10/2026» per la pubblicazione BURL della DGR XII/6661 è passata, ma la fonte ufficiale resta irraggiungibile da questo ambiente (stesso blocco di rete di S-018, burl.regione.lombardia.it). Nessuna conferma né smentita.",
    "Uso a valle": "non_utilizzabile"
   },
   {

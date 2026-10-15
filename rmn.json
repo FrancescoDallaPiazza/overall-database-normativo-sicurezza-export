@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generato_il": "2026-10-12",
+  "generato_il": "2026-10-15",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 29
+  "n_norme": 30
  },
  "norme": [
   {
@@ -33,7 +33,7 @@
    "Stato norma": "Vigente",
    "Entrata in vigore": null,
    "Servizi impattati": "Corsi di formazione; Sito web",
-   "Dove incide": "Pagine corso; kit FormaSubito; skill consulente-formazione-81, checkupformazione81, test-sicurezza-81",
+   "Dove incide": "Pagine corso; kit FormaSubito; skill consulente-formazione-81, checkupformazione81, test-sicurezza-81; AppOverall: catalogo corsi (0004), motore delle scadenze (0026 e seguenti), soggetto_formatore_tipo (0030), corso_modulo_docenza (0083, Parte II p. 7 e 8.2), proposta docs/0166-proposta.md (qualifica dell'ente, Parte I p. 1)",
    "Fonte ufficiale di verifica": "Conferenza Stato-Regioni (statoregioni.it)",
    "Periodicità verifica (mesi)": 3,
    "Data ultima verifica": "2026-09-27",
@@ -52,7 +52,7 @@
    "Stato norma": null,
    "Entrata in vigore": null,
    "Servizi impattati": "Corsi di formazione; Sito web",
-   "Dove incide": "riferimenti/faq-asr-2025.md del repo sito; risposte FAQ delle pagine corso",
+   "Dove incide": "riferimenti/faq-asr-2025.md del repo sito; risposte FAQ delle pagine corso; AppOverall: regola transitoria del preposto (0156, FAQ interregionali 27/03/2026 quesito 37), decadenza dei percorsi abilitanti (0160, FAQ interregionali 2026 n. 8)",
    "Fonte ufficiale di verifica": "Ministero del Lavoro: https://www.lavoro.gov.it/temi-e-priorita-salute-e-sicurezza/focus/faq-accordo-stato-regioni-27032026 ; Conferenza delle Regioni",
    "Periodicità verifica (mesi)": 1,
    "Data ultima verifica": "2026-10-05",
@@ -90,7 +90,7 @@
    "Stato norma": null,
    "Entrata in vigore": null,
    "Servizi impattati": "Corsi di formazione; Sito web",
-   "Dove incide": "/corso-antincendio-verona/; programmi e durate del corso",
+   "Dove incide": "/corso-antincendio-verona/; programmi e durate del corso; AppOverall: livello antincendio della sede (valutazione_sede.livello_antincendio, 0001), corsi antincendio del catalogo (0004), app/src/allegatoIDpr151.ts (domanda 2 del livello antincendio), proposta docs/0166-proposta.md (requisiti dei docenti, art. 5 c. 6 e art. 6)",
    "Fonte ufficiale di verifica": "Gazzetta Ufficiale; vigilfuoco.it (pagine formazione addetti antincendio)",
    "Periodicità verifica (mesi)": 6,
    "Data ultima verifica": "2026-09-27",
@@ -128,7 +128,7 @@
    "Stato norma": null,
    "Entrata in vigore": null,
    "Servizi impattati": "Corsi di formazione; Sito web",
-   "Dove incide": "/corso-primo-soccorso-verona/; programmi e durate",
+   "Dove incide": "/corso-primo-soccorso-verona/; programmi e durate; AppOverall: gruppo di primo soccorso della sede (valutazione_sede.gruppo_primo_soccorso, 0001), comunicazione del gruppo A all'ASL (comunicazione_asl, 0091, art. 1 c. 2), corsi di primo soccorso del catalogo (0004), proposta docs/0166-proposta.md (art. 3 c. 2, requisiti del docente)",
    "Fonte ufficiale di verifica": "Gazzetta Ufficiale",
    "Periodicità verifica (mesi)": 6,
    "Data ultima verifica": "2026-09-27",
@@ -285,7 +285,7 @@
    "Periodicità verifica (mesi)": 3,
    "Data ultima verifica": "2026-09-27",
    "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": "2026-12-27",
+   "Prossima verifica": null,
    "Stato monitoraggio": "Archivio",
    "Note": "Abrogato dall'ASR 17/04/2025, Parte VII punto 3 (trascritto in formazione-81-utils-src/reference/asr-2025-parte-vii.md). Percorsi effettuati in vigenza del 2012 fatti salvi; durate vigenti in Parte II punto 8.3. Il transitorio per avviare corsi col regime vecchio è scaduto il 19/05/2026 (non 24/05: vedi asr-2025-parte-vii.md). Verificato sulla libreria il 27/09/2026.",
    "Uso a valle": "archivio"
@@ -343,7 +343,7 @@
    "Data ultima verifica": "2026-10-12",
    "Esito ultima verifica": "Da verificare",
    "Prossima verifica": "2026-11-12",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-018.md. A-008 aperta. Giro rapido 12/10/2026: fonti di settore precisano BURL Serie Ordinaria n. 6 del 2 febbraio 2026 (prima: «inizio febbraio»); fonte ufficiale ancora non raggiunta (burl.regione.lombardia.it non risponde da questo ambiente di rete, 502, nonostante regione.lombardia.it sia nell'elenco consentito).",
    "Uso a valle": "non_utilizzabile"
   },
@@ -362,7 +362,7 @@
    "Data ultima verifica": "2026-10-12",
    "Esito ultima verifica": "Da verificare",
    "Prossima verifica": "2026-11-12",
-   "Stato monitoraggio": "OK",
+   "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-019.md. A-004 aperta. Giro rapido 12/10/2026: la finestra «non prima del 9/10/2026» per la pubblicazione BURL della DGR XII/6661 è passata, ma la fonte ufficiale resta irraggiungibile da questo ambiente (stesso blocco di rete di S-018, burl.regione.lombardia.it). Nessuna conferma né smentita.",
    "Uso a valle": "non_utilizzabile"
   },
@@ -546,7 +546,7 @@
    "Stato norma": null,
    "Entrata in vigore": null,
    "Servizi impattati": "Corsi di formazione",
-   "Dove incide": "tutti i corsi; libreria formazione-81-utils-src",
+   "Dove incide": "tutti i corsi; libreria formazione-81-utils-src; AppOverall: proposta docs/0166-proposta.md, qualifica dell'ente (fornitore_soggetto_formatore): sentinella, all'adozione dell'Accordo il modello dell'ente si rivede",
    "Fonte ufficiale di verifica": "https://www.statoregioni.it/ (repertorio atti /CSR)",
    "Periodicità verifica (mesi)": 1,
    "Data ultima verifica": "2026-10-06",
@@ -554,6 +554,25 @@
    "Prossima verifica": "2026-11-06",
    "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-029.md. Rinvio letto nella circolare INL 1/2026; repertorio Stato-Regioni da scorrere al prossimo ciclo.",
+   "Uso a valle": "non_utilizzabile"
+  },
+  {
+   "ID": "S-030",
+   "Categoria": "DM / DPR / DI",
+   "Identificativo norma": "D.I. 06/03/2013",
+   "Titolo / Oggetto": "Criteri di qualificazione della figura del formatore per la salute e sicurezza sul lavoro (art. 6 c. 8 lett. m-bis D.Lgs. 81/2008)",
+   "Edizione / Revisione vigente": "testo firmato del 6 marzo 2013 (Ministro del Lavoro e Ministro della Salute), PDF lavoro.gov.it di 7 pagine: decreto artt. 1-4 e allegato pag. 1-5 (prerequisito, sei criteri, tre aree tematiche, aggiornamento triennale). Avviso in Gazzetta e data di entrata in vigore: Da verificare",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": null,
+   "Servizi impattati": "Corsi di formazione; Sito web",
+   "Dove incide": "AppOverall: docente_qualifica e v_docente_qualifica (0067), docente_area, docente_aggiornamento e v_docente_area (0083: tre aree e aggiornamento triennale), commento di soggetto_formatore_tipo (0030), proposta docs/0166-proposta.md (criteri d'ingresso); kit FormaSubito (kitformasubito-src docs1.js e docs2.js, kitformasubito-preposto-src helpers.js); skill checkupformazione81 (references/DI_06_03_2013_REQUISITI_FORMATORI.txt, riassunto da sostituire); sito pagine/formasubito.html e corsi-sicurezza.html",
+   "Fonte ufficiale di verifica": "https://www.lavoro.gov.it/documenti-e-norme/normative/Documents/2013/Decreto_interministeriale_6_marzo_2013.pdf ; Gazzetta Ufficiale (avviso); lavoro.gov.it, sezione sicurezza nel lavoro (criteri pubblicati dopo, art. 2 c. 1)",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": "2026-10-15",
+   "Esito ultima verifica": "Da verificare",
+   "Prossima verifica": "2027-10-15",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-030.md. Voce aperta il 15/10/2026 (issue AppOverall #28): testo letto sul PDF ufficiale; lo stato «Vigente» viene dall'ASR 17/04/2025, Parte I p. 2 («normativa vigente [...] decreto Ministeriale 6 marzo 2013 e successive modifiche e integrazioni»). Da verificare: avviso in GU, entrata in vigore, modifiche successive.",
    "Uso a valle": "non_utilizzabile"
   }
  ]

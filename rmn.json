@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generato_il": "2026-10-15",
+  "generato_il": "2026-10-19",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
   "n_norme": 30
  },
@@ -285,7 +285,7 @@
    "Periodicità verifica (mesi)": 3,
    "Data ultima verifica": "2026-09-27",
    "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": null,
+   "Prossima verifica": "2026-12-27",
    "Stato monitoraggio": "Archivio",
    "Note": "Abrogato dall'ASR 17/04/2025, Parte VII punto 3 (trascritto in formazione-81-utils-src/reference/asr-2025-parte-vii.md). Percorsi effettuati in vigenza del 2012 fatti salvi; durate vigenti in Parte II punto 8.3. Il transitorio per avviare corsi col regime vecchio è scaduto il 19/05/2026 (non 24/05: vedi asr-2025-parte-vii.md). Verificato sulla libreria il 27/09/2026.",
    "Uso a valle": "archivio"
@@ -340,11 +340,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "BURL Regione Lombardia",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-10-12",
+   "Data ultima verifica": "2026-10-19",
    "Esito ultima verifica": "Da verificare",
-   "Prossima verifica": "2026-11-12",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "vedi schede/S-018.md. A-008 aperta. Giro rapido 12/10/2026: fonti di settore precisano BURL Serie Ordinaria n. 6 del 2 febbraio 2026 (prima: «inizio febbraio»); fonte ufficiale ancora non raggiunta (burl.regione.lombardia.it non risponde da questo ambiente di rete, 502, nonostante regione.lombardia.it sia nell'elenco consentito).",
+   "Prossima verifica": "2026-11-19",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-018.md. A-008 aperta. Giro rapido 19/10/2026: fonte ufficiale ancora non raggiunta — burl.regione.lombardia.it rifiutato dal proxy di rete (non più l'errore 502 del 12/10, ora connessione rifiutata), nonostante regione.lombardia.it risponda. Nessuna novità sul contenuto rispetto al 12/10/2026.",
    "Uso a valle": "non_utilizzabile"
   },
   {
@@ -359,11 +359,11 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "BURL Regione Lombardia",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-10-12",
+   "Data ultima verifica": "2026-10-19",
    "Esito ultima verifica": "Da verificare",
-   "Prossima verifica": "2026-11-12",
-   "Stato monitoraggio": "In scadenza",
-   "Note": "vedi schede/S-019.md. A-004 aperta. Giro rapido 12/10/2026: la finestra «non prima del 9/10/2026» per la pubblicazione BURL della DGR XII/6661 è passata, ma la fonte ufficiale resta irraggiungibile da questo ambiente (stesso blocco di rete di S-018, burl.regione.lombardia.it). Nessuna conferma né smentita.",
+   "Prossima verifica": "2026-11-19",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-019.md. A-004 aperta. Giro rapido 19/10/2026: regione.lombardia.it (pagina «Formazione e competenze SSL») letta di nuovo, risulta ancora aggiornata al 06/05/2026 e non cita la DGR XII/6661: nessuna conferma. burl.regione.lombardia.it resta irraggiungibile (ora connessione rifiutata dal proxy, non più l'errore 502 del 12/10). Fonti di settore (Assolombarda, PuntoSicuro) ripetono la DGR XII/6661 del 3/08/2026 e la piattaforma «Ge.Fo.S.», senza novità rispetto a quanto già osservato.",
    "Uso a valle": "non_utilizzabile"
   },
   {

@@ -2,7 +2,7 @@
  "meta": {
   "generato_il": "2026-11-01",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 32
+  "n_norme": 35
  },
  "norme": [
   {
@@ -21,7 +21,7 @@
    "Esito ultima verifica": "Variazione rilevata - azione in corso",
    "Prossima verifica": "2026-12-01",
    "Stato monitoraggio": "In scadenza",
-   "Note": "vedi schede/S-001.md. 01/11/2026: edizione «EDIZIONE AGGIORNATA OTTOBRE 2026» invariata; nessun atto in GU 26-31/10. Il suo elenco «Novità» cita tre atti mai registrati (L. 9/2026 subacquee, DPR 323/1956, documento Regioni «Atmosfere iperbariche»): dubbio se seguirli. Restano A-010…A-012 (in ritardo); dubbio «in frutteto» su A-011 confermato sul testo GU.",
+   "Note": "vedi schede/S-001.md. 01/11/2026: edizione «EDIZIONE AGGIORNATA OTTOBRE 2026» invariata; nessun atto in GU 26-31/10. Dal suo elenco «Novità» tre atti aggiunti al registro su decisione di Francesco (S-033 L. 9/2026, S-034 DPR 323/1956, S-035 atmosfere iperbariche). Restano A-010…A-012 (in ritardo); dubbio «in frutteto» su A-011 confermato sul testo GU.",
    "Uso a valle": "con_riserva"
   },
   {
@@ -534,7 +534,7 @@
    "Esito ultima verifica": "Variazione rilevata - azione in corso",
    "Prossima verifica": "2026-12-01",
    "Stato monitoraggio": "In scadenza",
-   "Note": "vedi schede/S-028.md. 01/11/2026: nota 2377/2026 sulla formazione dei neoassunti (fine del riferimento ai 60 giorni, prove dell'avvio con data certa). A-013…A-015. Dubbio: i 30 giorni della prescrizione valgono per tutti i settori?",
+   "Note": "vedi schede/S-028.md. 01/11/2026: nota 2377/2026 sulla formazione dei neoassunti (fine del riferimento ai 60 giorni, prove dell'avvio con data certa). A-013…A-015. Decisione di Francesco del 01/11/2026: il termine di 30 giorni della prescrizione vale solo per il settore turistico.",
    "Uso a valle": "con_riserva"
   },
   {
@@ -611,6 +611,63 @@
    "Prossima verifica": null,
    "Stato monitoraggio": "Da verificare",
    "Note": "vedi schede/S-032.md. Nota solo dalla citazione in un atto regionale ufficiale (D.D. DPG025/230): testo della DGR non letto.",
+   "Uso a valle": "non_utilizzabile"
+  },
+  {
+   "ID": "S-033",
+   "Categoria": "Legge / D.Lgs. / D.L.",
+   "Identificativo norma": "L. 26/01/2026 n. 9",
+   "Titolo / Oggetto": "Disposizioni in materia di sicurezza delle attività subacquee (Capo IV: lavori subacquei e iperbarici professionali)",
+   "Edizione / Revisione vigente": "GU Serie generale n. 21 del 27/01/2026; in vigore dal quindicesimo giorno dalla pubblicazione, artt. 10 e 16 commi 1, 2, 4, 5 dal 1° gennaio 2027 (art. 35)",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": null,
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "DVR di clienti con lavori subacquei o iperbarici (skill dvr-modulare); nessun servizio oggi",
+   "Fonte ufficiale di verifica": "https://www.gazzettaufficiale.it/eli/gu/2026/01/27/21/sg/pdf",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": "2026-11-01",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-11-01",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-033.md. Aggiunta il 01/11/2026 su decisione di Francesco (dall'elenco «Novità» del testo coordinato 81/08). Decreti attuativi non cercati.",
+   "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-034",
+   "Categoria": "DM / DPR / DI",
+   "Identificativo norma": "DPR 20/03/1956 n. 323",
+   "Titolo / Oggetto": "Norme per la prevenzione degli infortuni sul lavoro negli impianti telefonici",
+   "Edizione / Revisione vigente": "GU Serie Generale n. 109 del 05/05/1956, Suppl. Ordinario; vigenza: Da verificare",
+   "Stato norma": null,
+   "Entrata in vigore": null,
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "DVR di clienti che lavorano su impianti telefonici; nessun servizio oggi",
+   "Fonte ufficiale di verifica": "https://www.gazzettaufficiale.it/eli/id/1956/05/05/056U0323/sg ; art. 304 D.Lgs. 81/2008; Normattiva (PDF vigente da chiedere a Francesco)",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": null,
+   "Esito ultima verifica": "Da verificare",
+   "Prossima verifica": null,
+   "Stato monitoraggio": "Da verificare",
+   "Note": "vedi schede/S-034.md. Aggiunto il 01/11/2026 su decisione di Francesco. Estremi confermati in GU; vigenza non letta.",
+   "Uso a valle": "non_utilizzabile"
+  },
+  {
+   "ID": "S-035",
+   "Categoria": "Prassi (circolari, interpelli, FAQ)",
+   "Identificativo norma": "Indicazioni operative agenti fisici, Parte 8: atmosfere iperbariche",
+   "Titolo / Oggetto": "Coordinamento Tecnico Regioni / Gruppo Tematico Agenti Fisici con INAIL e ISS, approvate il 26/11/2025 (da fonti di settore)",
+   "Edizione / Revisione vigente": null,
+   "Stato norma": null,
+   "Entrata in vigore": null,
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "skill dvr-modulare (agenti fisici); DVR di clienti con lavori iperbarici",
+   "Fonte ufficiale di verifica": "Portale Agenti Fisici; Conferenza delle Regioni (copia ufficiale non trovata il 01/11/2026)",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": null,
+   "Esito ultima verifica": "Da verificare",
+   "Prossima verifica": null,
+   "Stato monitoraggio": "Da verificare",
+   "Note": "vedi schede/S-035.md. Aggiunto il 01/11/2026 su decisione di Francesco. Noto solo da fonti di settore (PuntoSicuro, Certifico).",
    "Uso a valle": "non_utilizzabile"
   }
  ]

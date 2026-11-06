@@ -2,7 +2,7 @@
  "meta": {
   "generato_il": "2026-11-06",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 40
+  "n_norme": 41
  },
  "norme": [
   {
@@ -763,6 +763,25 @@
    "Prossima verifica": "2027-02-06",
    "Stato monitoraggio": "OK",
    "Note": "vedi schede/S-040.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall). Modifiche con applicazione futura: vedi scheda.",
+   "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-041",
+   "Categoria": "Prassi (circolari, interpelli, FAQ)",
+   "Identificativo norma": "Interpello n. 3/2026",
+   "Titolo / Oggetto": "Videoterminalisti (art. 173 D.Lgs. 81/08): applicazione del Titolo VII agli agenti di stazione; requisiti dei locali (Allegato IV)",
+   "Edizione / Revisione vigente": "Seduta del 24/09/2026; firmato e protocollato il 01/10/2026 (prot. 0014405)",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": "2026-10-01",
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: modello VDT (rinvio V14, docs/modelli/vdt.md); consulenza sui videoterminalisti",
+   "Fonte ufficiale di verifica": "https://www.lavoro.gov.it/documenti-e-norme/interpelli/pagine/interpello-n-3-2026",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": "2026-11-06",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-11-06",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-041.md. Aggiunto il 06/11/2026: citato all'art. 173 nel testo coordinato ottobre 2026; conferma la soglia delle 20 ore, nessun cambio di regola.",
    "Uso a valle": "utilizzabile"
   }
  ]

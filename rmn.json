@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generato_il": "2026-11-06",
+  "generato_il": "2026-11-07",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 41
+  "n_norme": 42
  },
  "norme": [
   {
@@ -713,18 +713,18 @@
    "Categoria": "Prassi (circolari, interpelli, FAQ)",
    "Identificativo norma": "Metodologia INAIL stress lavoro-correlato",
    "Titolo / Oggetto": "La metodologia per la valutazione e gestione del rischio stress lavoro-correlato (INAIL) e piattaforma online",
-   "Edizione / Revisione vigente": "Inail 2017 (pubblicata il 16/10/2017); piattaforma aggiornata a gennaio 2021, impianto metodologico invariato",
+   "Edizione / Revisione vigente": "Inail 2017 (pubblicata il 16/10/2017); piattaforma aggiornata a gennaio 2021 e ad aprile 2025 (modulo facoltativo sul lavoro da remoto), impianto metodologico invariato",
    "Stato norma": "Vigente",
    "Entrata in vigore": "2017-10-16",
    "Servizi impattati": "Consulenza sicurezza",
    "Dove incide": "dvr-overall: rinvio V24 (stress lavoro-correlato) e modello stress (fase 2)",
    "Fonte ufficiale di verifica": "https://www.inail.it/portale/it/inail-comunica/pubblicazioni/catalogo-generale/catalogo-generale-dettaglio.2017.10.la-metodologia-per-la-valutazione-e-gestione-del-rischio-stress-lavoro-correlato.html",
    "Periodicità verifica (mesi)": 12,
-   "Data ultima verifica": "2026-11-06",
+   "Data ultima verifica": "2026-11-07",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2027-11-06",
+   "Prossima verifica": "2027-11-07",
    "Stato monitoraggio": "OK",
-   "Note": "vedi schede/S-038.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall). Dubbio: modulo INAIL 2026 sul lavoro da remoto non aperto.",
+   "Note": "vedi schede/S-038.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall); manuale letto il 07/11/2026. Modulo INAIL 2025 sul lavoro da remoto: facoltativo, non cambia il riferimento. Dubbio: regola per le aziende con meno di tre anni di dati.",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -782,6 +782,25 @@
    "Prossima verifica": "2027-11-06",
    "Stato monitoraggio": "OK",
    "Note": "vedi schede/S-041.md. Aggiunto il 06/11/2026: citato all'art. 173 nel testo coordinato ottobre 2026; conferma la soglia delle 20 ore, nessun cambio di regola.",
+   "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-042",
+   "Categoria": "Prassi (circolari, interpelli, FAQ)",
+   "Identificativo norma": "Lettera circolare 18/11/2010 prot. 15/SEGR/0023692",
+   "Titolo / Oggetto": "Indicazioni della Commissione consultiva per la valutazione dello stress lavoro-correlato (artt. 6 c. 8 lett. m-quater e 28 c. 1-bis D.Lgs. 81/08)",
+   "Edizione / Revisione vigente": "Ministero del lavoro, 18/11/2010; Indicazioni approvate dalla Commissione consultiva il 17/11/2010; riportata nel testo coordinato edizione ottobre 2026",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": "2010-11-18",
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: rinvio V24 e modello stress (docs/modelli/stress.md); consulenza sullo stress lavoro-correlato",
+   "Fonte ufficiale di verifica": "https://www.lavoro.gov.it/documenti-e-norme/normative/Documents/2010/LC-18novembre2010.pdf",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": "2026-11-07",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-11-07",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-042.md. Aggiunta il 07/11/2026 per il modello stress di dvr-overall. Dubbio: interpelli 5/2012 e 5/2013 non letti.",
    "Uso a valle": "utilizzabile"
   }
  ]

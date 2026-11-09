@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generato_il": "2026-11-07",
+  "generato_il": "2026-11-09",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
   "n_norme": 49
  },
@@ -17,12 +17,12 @@
    "Dove incide": "Tutti i corsi e le pagine del sito; DVR; consulenza; dvr-overall: libreria dei rischi (riferimenti dei rischi R e dei rinvii V) e testi della stampa del DVR",
    "Fonte ufficiale di verifica": "Normattiva (testo vigente); https://www.8108amatodifiore.it/ (edizione nel titolo della home); ispettorato.gov.it",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-11-01",
-   "Esito ultima verifica": "Variazione rilevata - azione in corso",
-   "Prossima verifica": "2026-12-01",
+   "Data ultima verifica": "2026-11-09",
+   "Esito ultima verifica": "Variazione rilevata - recepita",
+   "Prossima verifica": "2026-12-09",
    "Stato monitoraggio": "In scadenza",
-   "Note": "vedi schede/S-001.md. 01/11/2026: edizione «EDIZIONE AGGIORNATA OTTOBRE 2026» invariata; nessun atto in GU 26-31/10. Dal suo elenco «Novità» tre atti aggiunti al registro su decisione di Francesco (S-033 L. 9/2026, S-034 DPR 323/1956, S-035 atmosfere iperbariche). Restano A-010…A-012 (in ritardo); dubbio «in frutteto» su A-011 confermato sul testo GU.",
-   "Uso a valle": "con_riserva"
+   "Note": "vedi schede/S-001.md. 01/11/2026: edizione «EDIZIONE AGGIORNATA OTTOBRE 2026» invariata; nessun atto in GU 26-31/10. Dal suo elenco «Novità» tre atti aggiunti al registro su decisione di Francesco (S-033 L. 9/2026, S-034 DPR 323/1956, S-035 atmosfere iperbariche). Restano A-010…A-012 (in ritardo); dubbio «in frutteto» su A-011 confermato sul testo GU. 09/11/2026: edizione ancora invariata (giro rapido); A-009…A-013 risultano tutte Chiuse, Esito corretto da «azione in corso» a «recepita».",
+   "Uso a valle": "utilizzabile"
   },
   {
    "ID": "S-002",
@@ -285,7 +285,7 @@
    "Periodicità verifica (mesi)": 3,
    "Data ultima verifica": "2026-09-27",
    "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": null,
+   "Prossima verifica": "2026-12-27",
    "Stato monitoraggio": "Archivio",
    "Note": "Abrogato dall'ASR 17/04/2025, Parte VII punto 3 (trascritto in formazione-81-utils-src/reference/asr-2025-parte-vii.md). Percorsi effettuati in vigenza del 2012 fatti salvi; durate vigenti in Parte II punto 8.3. Il transitorio per avviare corsi col regime vecchio è scaduto il 19/05/2026 (non 24/05: vedi asr-2025-parte-vii.md). Verificato sulla libreria il 27/09/2026.",
    "Uso a valle": "archivio"
@@ -720,11 +720,11 @@
    "Dove incide": "dvr-overall: rinvio V24 (stress lavoro-correlato) e modello stress (fase 2)",
    "Fonte ufficiale di verifica": "https://www.inail.it/portale/it/inail-comunica/pubblicazioni/catalogo-generale/catalogo-generale-dettaglio.2017.10.la-metodologia-per-la-valutazione-e-gestione-del-rischio-stress-lavoro-correlato.html",
    "Periodicità verifica (mesi)": 12,
-   "Data ultima verifica": "2026-11-07",
+   "Data ultima verifica": "2026-11-09",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2027-11-07",
+   "Prossima verifica": "2027-11-09",
    "Stato monitoraggio": "OK",
-   "Note": "vedi schede/S-038.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall); manuale letto il 07/11/2026. Modulo INAIL 2025 sul lavoro da remoto: facoltativo, non cambia il riferimento. Dubbio: regola per le aziende con meno di tre anni di dati.",
+   "Note": "vedi schede/S-038.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall); manuale letto il 07/11/2026. Modulo INAIL 2025 sul lavoro da remoto: facoltativo, non cambia il riferimento. Dubbio: regola per le aziende con meno di tre anni di dati. 09/11/2026: controllo settimanale di routine (giro rapido), nessuna variazione.",
    "Uso a valle": "utilizzabile"
   },
   {
@@ -739,11 +739,11 @@
    "Dove incide": "dvr-overall: rinvio V15 e modello chimico (fase 2); skill valutazione-sds-movarisch",
    "Fonte ufficiale di verifica": "https://www.ausl.mo.it/organizzazione/dipartimenti-territoriali/dipartimento-di-sanita-pubblica/servizio-prevenzione-e-sicurezza-negli-ambienti-di-lavoro-spsal/modello-di-valutazione-del-rischio-chimico-movarisch",
    "Periodicità verifica (mesi)": 6,
-   "Data ultima verifica": "2026-11-07",
+   "Data ultima verifica": "2026-11-09",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2027-05-07",
+   "Prossima verifica": "2027-05-09",
    "Stato monitoraggio": "OK",
-   "Note": "vedi schede/S-039.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall); PDF letto per intero il 07/11/2026 per il modello chimico. Dubbio: skill valutazione-sds-movarisch diversa dal PDF sulle note 9 e 10.",
+   "Note": "vedi schede/S-039.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall); PDF letto per intero il 07/11/2026 per il modello chimico. Dubbio: skill valutazione-sds-movarisch diversa dal PDF sulle note 9 e 10. 09/11/2026: controllo settimanale di routine (giro rapido), nessuna variazione.",
    "Uso a valle": "utilizzabile"
   },
   {

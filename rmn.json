@@ -759,11 +759,11 @@
    "Fonte ufficiale di verifica": "https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX:32008R1272",
    "Periodicità verifica (mesi)": 3,
    "Data ultima verifica": "2026-11-16",
-   "Esito ultima verifica": "Nessuna variazione",
+   "Esito ultima verifica": "Variazione rilevata - azione in corso",
    "Prossima verifica": "2027-02-16",
    "Stato monitoraggio": "OK",
-   "Note": "vedi schede/S-040.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall). Modifiche con applicazione futura: vedi scheda.",
-   "Uso a valle": "utilizzabile"
+   "Note": "vedi schede/S-040.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall). Controllo indipendente del 16/11/2026 (passo 4-quater): chiariti i contenuti di Reg. 2026/2382 (readiness difesa, non sicurezza lavoro: dubbio chiuso) e Reg. delegato 2025/1222 (23° ATP del CLP, Allegato VI Parte 3 Tabella 3, applicabile dal 01/02/2027 - entro i 90 giorni della priorità A: elenco sostanze non letto). Azione A-027.",
+   "Uso a valle": "con_riserva"
   },
   {
    "ID": "S-041",

@@ -2,7 +2,7 @@
  "meta": {
   "generato_il": "2026-11-18",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 126
+  "n_norme": 127
  },
  "norme": [
   {
@@ -2398,6 +2398,25 @@
    "Stato monitoraggio": "OK",
    "Note": "vedi schede/S-126.md. Aggiunta il 18/11/2026 per dvr-overall (issue #48). Testo GU non confrontato.",
    "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-127",
+   "Categoria": "Legge / D.Lgs. / D.L.",
+   "Identificativo norma": "D.Lgs. 179/2026",
+   "Titolo / Oggetto": "Adeguamento della normativa nazionale al regolamento (UE) 2024/1689 sull'intelligenza artificiale; art. 42: intelligenza artificiale, salute e sicurezza nei luoghi di lavoro",
+   "Edizione / Revisione vigente": "D.Lgs. 7 ottobre 2026 n. 179, GU n. 234 del 08/10/2026, in vigore dal 23/10/2026 (Normattiva, letto il 18/11/2026)",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": "2026-10-23",
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: libreria dei rischi (rinvio o rischio «Intelligenza artificiale», art. 42 c. 2); formazione specifica dei lavoratori e kit FormaSubito (art. 42 c. 3)",
+   "Fonte ufficiale di verifica": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-10-07;179 (Normattiva, testo vigente)",
+   "Periodicità verifica (mesi)": 6,
+   "Data ultima verifica": "2026-11-18",
+   "Esito ultima verifica": "Variazione rilevata - azione in corso",
+   "Prossima verifica": "2027-05-18",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-127.md. Trovata il 18/11/2026 dal confronto di dvr-overall con un prodotto concorrente; non trovata dal ciclo del 16/11/2026.",
+   "Uso a valle": "con_riserva"
   }
  ]
 }

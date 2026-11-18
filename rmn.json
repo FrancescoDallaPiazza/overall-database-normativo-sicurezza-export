@@ -2,7 +2,7 @@
  "meta": {
   "generato_il": "2026-11-18",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 127
+  "n_norme": 130
  },
  "norme": [
   {
@@ -2417,6 +2417,63 @@
    "Stato monitoraggio": "OK",
    "Note": "vedi schede/S-127.md. Trovata il 18/11/2026 dal confronto di dvr-overall con un prodotto concorrente; non trovata dal ciclo del 16/11/2026.",
    "Uso a valle": "con_riserva"
+  },
+  {
+   "ID": "S-128",
+   "Categoria": "Legge / D.Lgs. / D.L.",
+   "Identificativo norma": "L. 4/2021",
+   "Titolo / Oggetto": "Ratifica ed esecuzione della Convenzione OIL n. 190 sull'eliminazione della violenza e delle molestie sul luogo di lavoro",
+   "Edizione / Revisione vigente": "GU n. 20 del 26/01/2021, in vigore dal 27/01/2021; Convenzione vigente per l'Italia dal 29/10/2022 (Normattiva, letto il 18/11/2026)",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": "2021-01-27",
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: rinvio V37 «Violenza e molestie sul lavoro, anche interne e di genere» (libreria 0.16, issue di dvr-overall)",
+   "Fonte ufficiale di verifica": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2021-01-15;4 (Normattiva)",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": "2026-11-18",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-11-18",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-128.md. Aggiunta il 18/11/2026 per dvr-overall (rinvio V37).",
+   "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-129",
+   "Categoria": "Legge / D.Lgs. / D.L.",
+   "Identificativo norma": "D.Lgs. 198/2006",
+   "Titolo / Oggetto": "Codice delle pari opportunità tra uomo e donna (art. 26: molestie e molestie sessuali)",
+   "Edizione / Revisione vigente": "GU n. 125 del 31/05/2006, S.O. n. 133; Normattiva: ultimo aggiornamento all'atto pubblicato il 23/05/2026",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": "2006-06-15",
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: rinvio V37 «Violenza e molestie sul lavoro, anche interne e di genere» (libreria 0.16, issue di dvr-overall)",
+   "Fonte ufficiale di verifica": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2006-04-11;198 (Normattiva)",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": "2026-11-18",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-11-18",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-129.md. Aggiunta il 18/11/2026 per dvr-overall (rinvio V37).",
+   "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-130",
+   "Categoria": "Norma tecnica (UNI/EN/ISO)",
+   "Identificativo norma": "UNI ISO 45003:2021",
+   "Titolo / Oggetto": "Salute e sicurezza psicologica sul lavoro - Linee di indirizzo per la gestione dei rischi psicosociali",
+   "Edizione / Revisione vigente": "UNI ISO 45003:2021, in vigore dal 18/11/2021 (catalogo UNI); adotta ISO 45003:2021",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": "2021-11-18",
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: rinvio V37 «Violenza e molestie sul lavoro, anche interne e di genere» (libreria 0.16, issue di dvr-overall)",
+   "Fonte ufficiale di verifica": "https://store.uni.com/uni-iso-45003-2021 (catalogo UNI)",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": "2026-11-18",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-11-18",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-130.md. Aggiunta il 18/11/2026 per dvr-overall (rinvio V37); testo fornito da Francesco.",
+   "Uso a valle": "utilizzabile"
   }
  ]
 }

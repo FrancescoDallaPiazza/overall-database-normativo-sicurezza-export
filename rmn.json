@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generato_il": "2026-11-16",
+  "generato_il": "2026-11-18",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 123
+  "n_norme": 126
  },
  "norme": [
   {
@@ -2222,7 +2222,7 @@
    "Fonte ufficiale di verifica": "https://www.vigilfuoco.it/sites/default/files/2025-09/COORD_NOTA_01_09_2025_n_14030_linee_guida_FV.pdf (testo coordinato VV.F., pagg. 3, 4 e 8)",
    "Periodicità verifica (mesi)": 12,
    "Data ultima verifica": "2026-11-14",
-   "Esito ultima verifica": "Variazione rilevata - azione in corso",
+   "Esito ultima verifica": "Variazione rilevata - recepita",
    "Prossima verifica": null,
    "Stato monitoraggio": "Archivio",
    "Note": "vedi schede/S-116.md. Aggiunta il 14/11/2026 per dvr-overall (passo 6a): la guida citata da dvr-overall è stata aggiornata dalla nota 14030/2025. A-022.",
@@ -2341,6 +2341,63 @@
    "Stato monitoraggio": "OK",
    "Note": "vedi schede/S-123.md. Conferma l'interpello 1/2024 sulla visita dei 60 giorni (solo lavoratori già soggetti a sorveglianza sanitaria); il DVR si aggiorna per modifiche significative, non per il tempo trascorso. Azione A-024.",
    "Uso a valle": "con_riserva"
+  },
+  {
+   "ID": "S-124",
+   "Categoria": "DM / DPR / DI",
+   "Identificativo norma": "DPR 146/2018",
+   "Titolo / Oggetto": "Regolamento di esecuzione del regolamento (UE) n. 517/2014 sui gas fluorurati a effetto serra: Registro telematico nazionale delle persone e imprese certificate (art. 15) e Banca dati gas fluorurati (art. 16)",
+   "Edizione / Revisione vigente": "GU n. 7 del 09/01/2019, in vigore dal 24/01/2019 (Normattiva, testo vigente letto il 18/11/2026)",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": "2019-01-24",
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: lista della sede CHK_SEDE i4 e misura SEDE_MIS i4 (banca dati F-gas, app/index.html)",
+   "Fonte ufficiale di verifica": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.del.presidente.della.repubblica:2018-11-16;146 (Normattiva, testo vigente)",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": "2026-11-18",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-11-18",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-124.md. Aggiunta il 18/11/2026 per dvr-overall (issue #49). Dubbio: attua il Reg. 517/2014, abrogato dal Reg. 2024/573 (S-125).",
+   "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-125",
+   "Categoria": "Regolamento / Direttiva UE",
+   "Identificativo norma": "Reg. (UE) 2024/573",
+   "Titolo / Oggetto": "Regolamento sui gas fluorurati a effetto serra (controlli delle perdite, tenuta dei registri)",
+   "Edizione / Revisione vigente": "Da verificare: EUR-Lex non raggiungibile in automatico il 18/11/2026",
+   "Stato norma": null,
+   "Entrata in vigore": null,
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: misura SEDE_MIS i4 (controlli delle perdite delle apparecchiature con gas fluorurati, app/index.html)",
+   "Fonte ufficiale di verifica": "https://eur-lex.europa.eu/eli/reg/2024/573/oj",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": null,
+   "Esito ultima verifica": "Da verificare",
+   "Prossima verifica": null,
+   "Stato monitoraggio": "Da verificare",
+   "Note": "vedi schede/S-125.md. Aggiunta il 18/11/2026 per dvr-overall (issue #49); testo non letto.",
+   "Uso a valle": "non_utilizzabile"
+  },
+  {
+   "ID": "S-126",
+   "Categoria": "DM / DPR / DI",
+   "Identificativo norma": "DM 08/11/2019",
+   "Titolo / Oggetto": "Approvazione della regola tecnica di prevenzione incendi per la progettazione, la realizzazione e l'esercizio degli impianti per la produzione di calore alimentati da combustibili gassosi",
+   "Edizione / Revisione vigente": "GU n. 273 del 21/11/2019, in vigore trenta giorni dopo (art. 6 c. 2); sostituisce il DM 12/04/1996; letto sul testo coordinato VV.F. di novembre 2020",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": null,
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: lista della sede CHK_SEDE i18 e misure SEDE_MIS i18 (centrale termica a gas oltre 35 kW, app/index.html)",
+   "Fonte ufficiale di verifica": "https://www.vigilfuoco.it/sites/default/files/coordinated-text/COORD_DM_08_11_2019.pdf (testo coordinato VV.F.)",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": "2026-11-18",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-11-18",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-126.md. Aggiunta il 18/11/2026 per dvr-overall (issue #48). Testo GU non confrontato.",
+   "Uso a valle": "utilizzabile"
   }
  ]
 }

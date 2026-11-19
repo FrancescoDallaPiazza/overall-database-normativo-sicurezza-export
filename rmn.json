@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generato_il": "2026-11-18",
+  "generato_il": "2026-11-19",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 141
+  "n_norme": 142
  },
  "norme": [
   {
@@ -2682,6 +2682,25 @@
    "Prossima verifica": "2027-11-18",
    "Stato monitoraggio": "OK",
    "Note": "vedi schede/S-141.md. Aggiunta il 18/11/2026 per dvr-overall (modelli V28/V29).",
+   "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-142",
+   "Categoria": "Prassi (circolari, interpelli, FAQ)",
+   "Identificativo norma": "Comunicazione della Commissione COM(2000) 466 def. del 05/10/2000",
+   "Titolo / Oggetto": "Linee direttrici per la valutazione degli agenti chimici, fisici e biologici, nonché dei processi industriali ritenuti pericolosi per la sicurezza o la salute delle lavoratrici gestanti, puerpere o in periodo di allattamento (art. 3 par. 1 Dir. 92/85/CEE; richiamate dall'art. 11 c. 1 D.Lgs. 151/2001)",
+   "Edizione / Revisione vigente": "COM(2000) 466 definitivo del 05/10/2000, testo italiano (PDF dell'Ufficio delle pubblicazioni UE, CELEX 52000DC0466, 36 pagine)",
+   "Stato norma": "Vigente",
+   "Entrata in vigore": "2000-10-05",
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: modello V28 lavoratrici madri (scheda docs/modelli/gestanti.md, §8-bis, proposte 1-13)",
+   "Fonte ufficiale di verifica": "https://publications.europa.eu/resource/celex/52000DC0466.ITA.pdf (PDF dell'Ufficio delle pubblicazioni UE); EUR-Lex CELEX:52000DC0466",
+   "Periodicità verifica (mesi)": 12,
+   "Data ultima verifica": "2026-11-19",
+   "Esito ultima verifica": "Nessuna variazione",
+   "Prossima verifica": "2027-11-19",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-142.md. Aggiunta il 19/11/2026 per dvr-overall (modello V28). Non vincolante nelle misure (indicative), ma la valutazione deve tenerne conto per l'art. 11 c. 1 D.Lgs. 151/2001; i divieti restano quelli del D.Lgs. 151/2001 (S-096). «Entrata in vigore» = data del documento.",
    "Uso a valle": "utilizzabile"
   }
  ]

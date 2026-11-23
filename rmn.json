@@ -1,8 +1,8 @@
 {
  "meta": {
-  "generato_il": "2026-11-19",
+  "generato_il": "2026-11-23",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
-  "n_norme": 142
+  "n_norme": 143
  },
  "norme": [
   {
@@ -17,9 +17,9 @@
    "Dove incide": "Tutti i corsi e le pagine del sito; DVR; consulenza; dvr-overall: libreria dei rischi (riferimenti dei rischi R e dei rinvii V) e testi della stampa del DVR",
    "Fonte ufficiale di verifica": "Normattiva (testo vigente); https://www.8108amatodifiore.it/ (edizione nel titolo della home); ispettorato.gov.it",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-11-16",
+   "Data ultima verifica": "2026-11-23",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2026-12-16",
+   "Prossima verifica": "2026-12-23",
    "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-001.md. 01/11/2026: edizione «EDIZIONE AGGIORNATA OTTOBRE 2026» invariata; nessun atto in GU 26-31/10. Dal suo elenco «Novità» tre atti aggiunti al registro su decisione di Francesco (S-033 L. 9/2026, S-034 DPR 323/1956, S-035 atmosfere iperbariche). Restano A-010…A-012 (in ritardo); dubbio «in frutteto» su A-011 confermato sul testo GU. 09/11/2026: edizione ancora invariata (giro rapido); A-009…A-013 risultano tutte Chiuse, Esito corretto da «azione in corso» a «recepita».",
    "Uso a valle": "utilizzabile"
@@ -285,7 +285,7 @@
    "Periodicità verifica (mesi)": 3,
    "Data ultima verifica": "2026-09-27",
    "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": null,
+   "Prossima verifica": "2026-12-27",
    "Stato monitoraggio": "Archivio",
    "Note": "Abrogato dall'ASR 17/04/2025, Parte VII punto 3 (trascritto in formazione-81-utils-src/reference/asr-2025-parte-vii.md). Percorsi effettuati in vigenza del 2012 fatti salvi; durate vigenti in Parte II punto 8.3. Il transitorio per avviare corsi col regime vecchio è scaduto il 19/05/2026 (non 24/05: vedi asr-2025-parte-vii.md). Verificato sulla libreria il 27/09/2026.",
    "Uso a valle": "archivio"
@@ -302,9 +302,9 @@
    "Dove incide": "kitformasubito* STEP 0.5; consulente-formazione-81; assorbite-skill/disposizioni-regionali-asr-2025.md (libreria)",
    "Fonte ufficiale di verifica": "NESSUNA FONTE UFFICIALE REPERIBILE (deciso da Francesco il 27/09/2026). Copia: formazione-81-utils-src/reference/fonti/FAQ-Regione-Veneto.pdf = OneDrive FormazioneASR/FAQ. Controllo versioni nuove: regione.veneto.it e siti di settore (certifico.com, biblus.acca.it)",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-11-01",
+   "Data ultima verifica": "2026-11-23",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2026-12-01",
+   "Prossima verifica": "2026-12-23",
    "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-016.md. 01/11/2026: nessuna versione diversa (Certifico ID 26696 del 16/07/2026, etichetta «Giugno 2026» non verificabile).",
    "Uso a valle": "utilizzabile"
@@ -511,9 +511,9 @@
    "Dove incide": "consulente-formazione-81; pagine corso RSPP/RLS; consulenza cantieri",
    "Fonte ufficiale di verifica": "https://www.lavoro.gov.it/documenti-e-norme/interpelli/pagine/default",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-11-16",
+   "Data ultima verifica": "2026-11-23",
    "Esito ultima verifica": "Variazione rilevata - azione in corso",
-   "Prossima verifica": "2026-12-16",
+   "Prossima verifica": "2026-12-23",
    "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-027.md. Nel 2026 la Commissione ne ha emessi cinque; il 5/2026 (22/10/2026, firmato 09/11/2026) ha scheda propria S-123 e azione A-024.",
    "Uso a valle": "con_riserva"
@@ -530,9 +530,9 @@
    "Dove incide": "assistenza-ispezione-sicurezza-verona.html (Safety Express); vedi anche S-001, S-011",
    "Fonte ufficiale di verifica": "https://www.ispettorato.gov.it/",
    "Periodicità verifica (mesi)": 1,
-   "Data ultima verifica": "2026-11-16",
+   "Data ultima verifica": "2026-11-23",
    "Esito ultima verifica": "Variazione rilevata - azione in corso",
-   "Prossima verifica": "2026-12-16",
+   "Prossima verifica": "2026-12-23",
    "Stato monitoraggio": "In scadenza",
    "Note": "vedi schede/S-028.md. Nota 2377/2026: azioni A-013...A-015. Nota 2469/2026 del 06/11/2026 (crediti ulteriori patente a crediti): azione A-025.",
    "Uso a valle": "con_riserva"
@@ -720,9 +720,9 @@
    "Dove incide": "dvr-overall: rinvio V24 (stress lavoro-correlato) e modello stress (fase 2)",
    "Fonte ufficiale di verifica": "https://www.inail.it/portale/it/inail-comunica/pubblicazioni/catalogo-generale/catalogo-generale-dettaglio.2017.10.la-metodologia-per-la-valutazione-e-gestione-del-rischio-stress-lavoro-correlato.html",
    "Periodicità verifica (mesi)": 12,
-   "Data ultima verifica": "2026-11-16",
+   "Data ultima verifica": "2026-11-23",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2027-11-16",
+   "Prossima verifica": "2027-11-23",
    "Stato monitoraggio": "OK",
    "Note": "vedi schede/S-038.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall); manuale letto il 07/11/2026. Modulo INAIL 2025 sul lavoro da remoto: facoltativo, non cambia il riferimento. Dubbio: regola per le aziende con meno di tre anni di dati. 09/11/2026: controllo settimanale di routine (giro rapido), nessuna variazione.",
    "Uso a valle": "utilizzabile"
@@ -739,9 +739,9 @@
    "Dove incide": "dvr-overall: rinvio V15 e modello chimico (fase 2); skill valutazione-sds-movarisch",
    "Fonte ufficiale di verifica": "https://www.ausl.mo.it/organizzazione/dipartimenti-territoriali/dipartimento-di-sanita-pubblica/servizio-prevenzione-e-sicurezza-negli-ambienti-di-lavoro-spsal/modello-di-valutazione-del-rischio-chimico-movarisch",
    "Periodicità verifica (mesi)": 6,
-   "Data ultima verifica": "2026-11-16",
+   "Data ultima verifica": "2026-11-23",
    "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2027-05-16",
+   "Prossima verifica": "2027-05-23",
    "Stato monitoraggio": "OK",
    "Note": "vedi schede/S-039.md. Aggiunta il 06/11/2026 (fase 1 del piano dvr-overall); PDF letto per intero il 07/11/2026 per il modello chimico. Dubbio: skill valutazione-sds-movarisch diversa dal PDF sulle note 9 e 10. 09/11/2026: controllo settimanale di routine (giro rapido), nessuna variazione.",
    "Uso a valle": "utilizzabile"
@@ -1425,7 +1425,7 @@
    "Periodicità verifica (mesi)": 12,
    "Data ultima verifica": "2026-11-14",
    "Esito ultima verifica": "Variazione rilevata - azione in corso",
-   "Prossima verifica": null,
+   "Prossima verifica": "2027-11-14",
    "Stato monitoraggio": "Archivio",
    "Note": "vedi schede/S-075.md. Aggiunta il 14/11/2026 per la libreria DPI di dvr-overall (norma di prodotto: solo stato ed edizione). Solo stato ed edizione dal catalogo. Dubbio: per D02 e D03 basta citare la UNI EN ISO 16321-1:2025, o serve anche la parte 3 (protettori a rete)?",
    "Uso a valle": "archivio"
@@ -2223,7 +2223,7 @@
    "Periodicità verifica (mesi)": 12,
    "Data ultima verifica": "2026-11-14",
    "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": null,
+   "Prossima verifica": "2027-11-14",
    "Stato monitoraggio": "Archivio",
    "Note": "vedi schede/S-116.md. Aggiunta il 14/11/2026 per dvr-overall (passo 6a): la guida citata da dvr-overall è stata aggiornata dalla nota 14030/2025. A-022.",
    "Uso a valle": "archivio"
@@ -2280,7 +2280,7 @@
    "Periodicità verifica (mesi)": 12,
    "Data ultima verifica": "2026-11-14",
    "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": null,
+   "Prossima verifica": "2027-11-14",
    "Stato monitoraggio": "Archivio",
    "Note": "vedi schede/S-119.md. Aggiunta il 14/11/2026 per dvr-overall (passo 6a). Abrogazione letta nella libreria; l'app già dichiara che il valore viene dall'Accordo 2011.",
    "Uso a valle": "archivio"
@@ -2702,6 +2702,25 @@
    "Stato monitoraggio": "OK",
    "Note": "vedi schede/S-142.md. Aggiunta il 19/11/2026 per dvr-overall (modello V28). Non vincolante nelle misure (indicative), ma la valutazione deve tenerne conto per l'art. 11 c. 1 D.Lgs. 151/2001; i divieti restano quelli del D.Lgs. 151/2001 (S-096). «Entrata in vigore» = data del documento.",
    "Uso a valle": "utilizzabile"
+  },
+  {
+   "ID": "S-143",
+   "Categoria": "Legge / D.Lgs. / D.L.",
+   "Identificativo norma": "D.Lgs. 208/2026",
+   "Titolo / Oggetto": "Attuazione della direttiva (UE) 2024/2831 sul miglioramento delle condizioni di lavoro nel lavoro mediante piattaforme digitali — modifiche al D.Lgs. 81/2008 (artt. 2, 15, 35) e obblighi diretti di salute e sicurezza per piattaforme e intermediari (art. 11)",
+   "Edizione / Revisione vigente": "D.Lgs. 2 novembre 2026, n. 208, GU Serie Generale n. 266 del 14/11/2026 (letto il 23/11/2026)",
+   "Stato norma": "In vigore da data futura",
+   "Entrata in vigore": "2026-12-02",
+   "Servizi impattati": "Consulenza sicurezza",
+   "Dove incide": "dvr-overall: libreria dei rischi/rinvii (nuovo rischio o rinvio «lavoratori delle piattaforme digitali», artt. 15 c.1 lett. a-bis e 35 c.2 lett. d-bis D.Lgs. 81/08, introdotti dall'art. 23 D.Lgs. 208/2026); issue da aprire sul repo dvr-overall",
+   "Fonte ufficiale di verifica": "https://www.gazzettaufficiale.it/eli/gu/2026/11/14/266/sg/pdf (GU Serie Generale n. 266 del 14/11/2026)",
+   "Periodicità verifica (mesi)": 3,
+   "Data ultima verifica": "2026-11-23",
+   "Esito ultima verifica": "Variazione rilevata - azione in corso",
+   "Prossima verifica": "2027-02-23",
+   "Stato monitoraggio": "OK",
+   "Note": "vedi schede/S-143.md. Pubblicato il 14/11/2026 (due giorni prima del giro rapido del 16/11/2026, non ancora indicizzato dall'elenco Amato/Di Fiore); trovato il 23/11/2026 dalla lettura diretta dei sommari di Gazzetta Ufficiale. Azioni A-030, A-031. Periodicità 3 mesi (anziché 6) in attesa dei decreti attuativi previsti dagli artt. 14 c.1 e 15 c.1 (controllo indipendente, revisore del ragionamento, 23/11/2026).",
+   "Uso a valle": "con_riserva"
   }
  ]
 }

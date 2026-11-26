@@ -2712,14 +2712,14 @@
    "Stato norma": "In vigore da data futura",
    "Entrata in vigore": "2026-12-02",
    "Servizi impattati": "Consulenza sicurezza",
-   "Dove incide": "dvr-overall: libreria dei rischi/rinvii (nuovo rischio o rinvio «lavoratori delle piattaforme digitali», artt. 15 c.1 lett. a-bis e 35 c.2 lett. d-bis D.Lgs. 81/08, introdotti dall'art. 23 D.Lgs. 208/2026); issue da aprire sul repo dvr-overall",
+   "Dove incide": "dvr-overall: libreria dei rischi/rinvii (sistemi di monitoraggio e decisionali automatizzati, art. 15 c. 1 lett. a) e a-bis) D.Lgs. 81/08; artt. 11 e 12 c. 1 D.Lgs. 208/2026 per piattaforme e intermediari, rinvio V37 violenza e molestie); riunione periodica art. 35 c. 2 lett. d-bis) (checklist AppSopralluoghi e/o servizio AppOverall, da individuare); formazione dei lavoratori (destinatari); registri dei requisiti legali dei clienti ISO 45001",
    "Fonte ufficiale di verifica": "https://www.gazzettaufficiale.it/eli/gu/2026/11/14/266/sg/pdf (GU Serie Generale n. 266 del 14/11/2026)",
    "Periodicità verifica (mesi)": 3,
-   "Data ultima verifica": "2026-11-23",
+   "Data ultima verifica": "2026-11-26",
    "Esito ultima verifica": "Variazione rilevata - azione in corso",
-   "Prossima verifica": "2027-02-23",
+   "Prossima verifica": "2027-02-26",
    "Stato monitoraggio": "OK",
-   "Note": "vedi schede/S-143.md. Pubblicato il 14/11/2026 (due giorni prima del giro rapido del 16/11/2026, non ancora indicizzato dall'elenco Amato/Di Fiore); trovato il 23/11/2026 dalla lettura diretta dei sommari di Gazzetta Ufficiale. Azioni A-030, A-031. Periodicità 3 mesi (anziché 6) in attesa dei decreti attuativi previsti dagli artt. 14 c.1 e 15 c.1 (controllo indipendente, revisore del ragionamento, 23/11/2026).",
+   "Note": "vedi schede/S-143.md. Pubblicato il 14/11/2026, due giorni prima del giro rapido del 16/11/2026, e trovato il 23/11/2026 dai sommari della Gazzetta Ufficiale. Azioni A-030…A-035. Periodicità 3 mesi per seguire la prima prassi INL e del Ministero (l'unico decreto attuativo di contenuto tecnico, art. 15 c. 1, riguarda dati e interoperabilità). 26/11/2026: corretto prima dell'invio dell'avviso (art. 35 = riunione periodica, non contenuto del DVR; art. 11 = piattaforme e intermediari); aperto il dubbio sull'ambito dell'art. 15 c. 1 lett. a) e a-bis) (A-035).",
    "Uso a valle": "con_riserva"
   }
  ]

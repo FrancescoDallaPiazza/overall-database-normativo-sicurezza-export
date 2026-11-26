@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generato_il": "2026-11-23",
+  "generato_il": "2026-11-26",
   "sorgente": "Overall_Database_Normativo_Sicurezza.xlsx",
   "n_norme": 143
  },
@@ -207,12 +207,12 @@
    "Dove incide": "Consulenza a imprese edili",
    "Fonte ufficiale di verifica": "Normattiva; Ministero del Lavoro; INL",
    "Periodicità verifica (mesi)": 3,
-   "Data ultima verifica": "2026-11-01",
-   "Esito ultima verifica": "Nessuna variazione",
-   "Prossima verifica": "2027-02-01",
+   "Data ultima verifica": "2026-11-26",
+   "Esito ultima verifica": "Variazione rilevata - azione in corso",
+   "Prossima verifica": "2027-02-26",
    "Stato monitoraggio": "OK",
-   "Note": "vedi schede/S-011.md. A-005 aperta. 01/11/2026: nessun atto INL o ministeriale nuovo sulla patente dopo il 05/10/2026.",
-   "Uso a valle": "utilizzabile"
+   "Note": "vedi schede/S-011.md. 26/11/2026: letti in GU n. 301/2025 l'art. 3 cc. 4-5 D.L. 159/2025 (allegato I-bis n. 21 e 24, c. 11 a 12.000 euro), circolare INL 1/2026, note INL 609 e 4634/2026, D.D. INL 24/2026. A-005 chiusa; aperte A-025 e A-026.",
+   "Uso a valle": "con_riserva"
   },
   {
    "ID": "S-012",
@@ -285,7 +285,7 @@
    "Periodicità verifica (mesi)": 3,
    "Data ultima verifica": "2026-09-27",
    "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": "2026-12-27",
+   "Prossima verifica": null,
    "Stato monitoraggio": "Archivio",
    "Note": "Abrogato dall'ASR 17/04/2025, Parte VII punto 3 (trascritto in formazione-81-utils-src/reference/asr-2025-parte-vii.md). Percorsi effettuati in vigenza del 2012 fatti salvi; durate vigenti in Parte II punto 8.3. Il transitorio per avviare corsi col regime vecchio è scaduto il 19/05/2026 (non 24/05: vedi asr-2025-parte-vii.md). Verificato sulla libreria il 27/09/2026.",
    "Uso a valle": "archivio"
@@ -1425,7 +1425,7 @@
    "Periodicità verifica (mesi)": 12,
    "Data ultima verifica": "2026-11-14",
    "Esito ultima verifica": "Variazione rilevata - azione in corso",
-   "Prossima verifica": "2027-11-14",
+   "Prossima verifica": null,
    "Stato monitoraggio": "Archivio",
    "Note": "vedi schede/S-075.md. Aggiunta il 14/11/2026 per la libreria DPI di dvr-overall (norma di prodotto: solo stato ed edizione). Solo stato ed edizione dal catalogo. Dubbio: per D02 e D03 basta citare la UNI EN ISO 16321-1:2025, o serve anche la parte 3 (protettori a rete)?",
    "Uso a valle": "archivio"
@@ -2223,7 +2223,7 @@
    "Periodicità verifica (mesi)": 12,
    "Data ultima verifica": "2026-11-14",
    "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": "2027-11-14",
+   "Prossima verifica": null,
    "Stato monitoraggio": "Archivio",
    "Note": "vedi schede/S-116.md. Aggiunta il 14/11/2026 per dvr-overall (passo 6a): la guida citata da dvr-overall è stata aggiornata dalla nota 14030/2025. A-022.",
    "Uso a valle": "archivio"
@@ -2280,7 +2280,7 @@
    "Periodicità verifica (mesi)": 12,
    "Data ultima verifica": "2026-11-14",
    "Esito ultima verifica": "Variazione rilevata - recepita",
-   "Prossima verifica": "2027-11-14",
+   "Prossima verifica": null,
    "Stato monitoraggio": "Archivio",
    "Note": "vedi schede/S-119.md. Aggiunta il 14/11/2026 per dvr-overall (passo 6a). Abrogazione letta nella libreria; l'app già dichiara che il valore viene dall'Accordo 2011.",
    "Uso a valle": "archivio"
